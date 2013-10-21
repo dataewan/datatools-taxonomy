@@ -1,0 +1,13 @@
+Tool,Type,easy_use,time,learning_requirements,flexibility,easytasks,complextasks,bigdata
+Excel,Analysis,7,7,6,4,7,2,2
+Powerpoint,Presentation,6,6,7,4,7,2,2
+Tableau,Presentation,8,8,5,4,8,2,5
+SQL,Storage,4,6,7,5,6,6,7
+Unix text tools,Analysis,3,9,4,6,7,5,8
+Python,Analysis,7,7,5,10,6,8,7
+R,Analysis,5,7,3,7,5,9,6
+Mechanical Turk,Analysis,8,6,8,9,10,6,5
+Big Query,Analysis,3,3,4,7,2,8,9
+Hadoop and hive,Analysis,3,3,6,6,2,8,9
+NoSQL,Storage,3,3,4,8,3,7,9
+D3,Presentation,6,3,5,8,5,8,5
