@@ -1,4 +1,5 @@
 
+
 d3.json("ratings.json", function(data){
 	var categories = ["Easy to use",
 						"Rapid",
@@ -100,8 +101,8 @@ d3.json("ratings.json", function(data){
 		.data(data)
 		.enter()
 		.append('circle')
-			.attr("cx", function(d) { return xscale(d[xlab] + jitter(0.5) ); })
-			.attr("cy", function(d) { return yscale(d[ylab] + jitter(0.5) ); })
+			.attr("cx", function(d) { return xscale(d['Ratings'][xlab]['rating'] + jitter(0.5) ); })
+			.attr("cy", function(d) { return yscale(d['Ratings'][ylab]['rating'] + jitter(0.5) ); })
 			.attr("r", 10)
 			// TODO, make the points the colour of the category they're in
 			.attr("fill", "steelblue")
@@ -120,9 +121,10 @@ d3.json("ratings.json", function(data){
 				selectedpoint = d;
 
 				toollabel.text(d.Tool);
-				// TODO, make these populate with additional information from the JSON. Need to stick the additional information in the JSON first though.
-				xinfo.text(xlab);
-				yinfo.text(ylab);
+				// These take additional information from the json and add it
+				xinfo.text(d['Ratings'][xlab]['comment']);
+				yinfo.text(d['Ratings'][ylab]['comment']);
+
 			})
 			.on('mouseout', function(d, i){
 				// d3.select(this)
@@ -147,13 +149,12 @@ d3.json("ratings.json", function(data){
 			plot.selectAll('circle')
 				.transition()
 				.duration(500)
-				.attr("cx", function(d) { return xscale(d[xlab] + jitter(0.5) ); })
-				.attr("cy", function(d) { return yscale(d[ylab] + jitter(0.5) ); })
+				.attr("cx", function(d) { return xscale(d['Ratings'][xlab]['rating'] + jitter(0.5) ); })
+				.attr("cy", function(d) { return yscale(d['Ratings'][ylab]['rating'] + jitter(0.5) ); })
 
 			// extract the data from the selected point to update the additional information stuff
-			// TODO, make this extract additional information from the JSON and populate from this.
-			xinfo.text(xlab);
-			yinfo.text(ylab);
+			xinfo.text(selectedpoint['Ratings'][xlab]['comment']);
+			yinfo.text(selectedpoint['Ratings'][ylab]['comment']);
 		}
 
 	function jitter(level){

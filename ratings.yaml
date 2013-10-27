@@ -1,0 +1,372 @@
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: Really easy to use.
+      rating: 7
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 4
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 2
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 7
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 2
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 6
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 7
+  Tool: Excel
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 6
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 4
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 2
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 7
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 2
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 7
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 6
+  Tool: Powerpoint
+  Type: Presentation
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 8
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 4
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 2
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 8
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 5
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 5
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 8
+  Tool: Tableau
+  Type: Presentation
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 4
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 5
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 6
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 6
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 7
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 7
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 6
+  Tool: SQL
+  Type: Storage
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 3
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 6
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 5
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 7
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 8
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 4
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 9
+  Tool: Unix text tools
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 7
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 10
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 8
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 6
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 7
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 5
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 7
+  Tool: Python
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 5
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 7
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 9
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 5
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 6
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 3
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 7
+  Tool: R
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 8
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 9
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 6
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 10
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 5
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 8
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 6
+  Tool: Mechanical Turk
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 3
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 7
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 8
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 2
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 9
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 4
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 3
+  Tool: Big Query
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 3
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 6
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 8
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 2
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 9
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 6
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 3
+  Tool: Hadoop and hive
+  Type: Analysis
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 3
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 8
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 7
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 3
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 9
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 4
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 3
+  Tool: NoSQL
+  Type: Storage
+- Ratings:
+    Easy to use:
+      category: Easy to use
+      comment: ''
+      rating: 6
+    Flexible:
+      category: Flexible
+      comment: ''
+      rating: 8
+    Good for complex tasks:
+      category: Good for complex tasks
+      comment: ''
+      rating: 8
+    Good for easy tasks:
+      category: Good for easy tasks
+      comment: ''
+      rating: 5
+    Good with big data:
+      category: Good with big data
+      comment: ''
+      rating: 5
+    Learning requirements:
+      category: Learning requirements
+      comment: ''
+      rating: 5
+    Rapid:
+      category: Rapid
+      comment: ''
+      rating: 3
+  Tool: D3
+  Type: Presentation

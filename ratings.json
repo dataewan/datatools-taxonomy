@@ -1,134 +1,494 @@
 [
   {
-    "Rapid": 7,
-    "Type": "Analysis",
-    "Easy to use": 7,
-    "Tool": "Excel",
-    "Good for easy tasks": 7,
-    "Flexible": 4,
-    "Good for complex tasks": 2,
-    "Learning requirements": 6,
-    "Good with big data": 2
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "Really easy to use.", 
+        "rating": 7
+      }
+    }, 
+    "Tool": "Excel", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 6,
-    "Type": "Presentation",
-    "Easy to use": 6,
-    "Tool": "Powerpoint",
-    "Good for easy tasks": 7,
-    "Flexible": 4,
-    "Good for complex tasks": 2,
-    "Learning requirements": 7,
-    "Good with big data": 2
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 6
+      }
+    }, 
+    "Tool": "Powerpoint", 
+    "Type": "Presentation"
+  }, 
   {
-    "Rapid": 8,
-    "Type": "Presentation",
-    "Easy to use": 8,
-    "Tool": "Tableau",
-    "Good for easy tasks": 8,
-    "Flexible": 4,
-    "Good for complex tasks": 2,
-    "Learning requirements": 5,
-    "Good with big data": 5
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 8
+      }
+    }, 
+    "Tool": "Tableau", 
+    "Type": "Presentation"
+  }, 
   {
-    "Rapid": 6,
-    "Type": "Storage",
-    "Easy to use": 4,
-    "Tool": "SQL",
-    "Good for easy tasks": 6,
-    "Flexible": 5,
-    "Good for complex tasks": 6,
-    "Learning requirements": 7,
-    "Good with big data": 7
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 4
+      }
+    }, 
+    "Tool": "SQL", 
+    "Type": "Storage"
+  }, 
   {
-    "Rapid": 9,
-    "Type": "Analysis",
-    "Easy to use": 3,
-    "Tool": "Unix text tools",
-    "Good for easy tasks": 7,
-    "Flexible": 6,
-    "Good for complex tasks": 5,
-    "Learning requirements": 4,
-    "Good with big data": 8
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 3
+      }
+    }, 
+    "Tool": "Unix text tools", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 7,
-    "Type": "Analysis",
-    "Easy to use": 7,
-    "Tool": "Python",
-    "Good for easy tasks": 6,
-    "Flexible": 10,
-    "Good for complex tasks": 8,
-    "Learning requirements": 5,
-    "Good with big data": 7
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 10
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 7
+      }
+    }, 
+    "Tool": "Python", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 7,
-    "Type": "Analysis",
-    "Easy to use": 5,
-    "Tool": "R",
-    "Good for easy tasks": 5,
-    "Flexible": 7,
-    "Good for complex tasks": 9,
-    "Learning requirements": 3,
-    "Good with big data": 6
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 5
+      }
+    }, 
+    "Tool": "R", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 6,
-    "Type": "Analysis",
-    "Easy to use": 8,
-    "Tool": "Mechanical Turk",
-    "Good for easy tasks": 10,
-    "Flexible": 9,
-    "Good for complex tasks": 6,
-    "Learning requirements": 8,
-    "Good with big data": 5
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 10
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 8
+      }
+    }, 
+    "Tool": "Mechanical Turk", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 3,
-    "Type": "Analysis",
-    "Easy to use": 3,
-    "Tool": "Big Query",
-    "Good for easy tasks": 2,
-    "Flexible": 7,
-    "Good for complex tasks": 8,
-    "Learning requirements": 4,
-    "Good with big data": 9
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 3
+      }
+    }, 
+    "Tool": "Big Query", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 3,
-    "Type": "Analysis",
-    "Easy to use": 3,
-    "Tool": "Hadoop and hive",
-    "Good for easy tasks": 2,
-    "Flexible": 6,
-    "Good for complex tasks": 8,
-    "Learning requirements": 6,
-    "Good with big data": 9
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 3
+      }
+    }, 
+    "Tool": "Hadoop and hive", 
+    "Type": "Analysis"
+  }, 
   {
-    "Rapid": 3,
-    "Type": "Storage",
-    "Easy to use": 3,
-    "Tool": "NoSQL",
-    "Good for easy tasks": 3,
-    "Flexible": 8,
-    "Good for complex tasks": 7,
-    "Learning requirements": 4,
-    "Good with big data": 9
-  },
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 9
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 3
+      }
+    }, 
+    "Tool": "NoSQL", 
+    "Type": "Storage"
+  }, 
   {
-    "Rapid": 3,
-    "Type": "Presentation",
-    "Easy to use": 6,
-    "Tool": "D3",
-    "Good for easy tasks": 5,
-    "Flexible": 8,
-    "Good for complex tasks": 8,
-    "Learning requirements": 5,
-    "Good with big data": 5
+    "Ratings": {
+      "Rapid": {
+        "category": "Rapid", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good with big data": {
+        "category": "Good with big data", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good for easy tasks": {
+        "category": "Good for easy tasks", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Learning requirements": {
+        "category": "Learning requirements", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Flexible": {
+        "category": "Flexible", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Easy to use": {
+        "category": "Easy to use", 
+        "comment": "", 
+        "rating": 6
+      }
+    }, 
+    "Tool": "D3", 
+    "Type": "Presentation"
   }
 ]
