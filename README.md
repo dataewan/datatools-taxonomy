@@ -4,6 +4,8 @@ Categorisation of various data processing tools
 
 I want to provide recommendations to people, but for different types of tasks different types of tools might be appropriate.
 
+**NOTE** The opinions here are subjective and reflect my experience, nobody else's.
+
 ## Tools to categorise
 
 Here are some of the tools I'm going to categorise.

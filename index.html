@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Data Taxonomy</title>
+</head>
+
+<style>
+	
+	li.selected{
+		color: tomato;
+	}
+
+	div#controls{
+		float: left;
+	}
+
+	div#taxplot{
+		float: left;
+	}
+
+	div#additionalinformation{
+		float: left;
+	}
+</style>
+<body>
+<h1>Data Taxonomy</h1>
+
+	<div id="controls">
+		<div>
+			<span>
+			x-axis
+			<ul id="xselect" class="axisselector"></ul>
+			</span>
+		</div>
+		<div>
+			y-axis
+			<ul id="yselect" class="axisselector"></ul>
+			<span>
+			</span>
+		</div>
+	</div>
+	<div id="taxplot">
+		
+	</div>
+
+	<div id='additionalinformation'>
+		<h1 id="toollabel">
+			
+		</h1>
+
+		<div id="xinfo">
+			
+		</div>
+
+		<div id="yinfo">
+			
+		</div>
+	</div>
+
+<script src="js/lodash.min.js"></script>
+<script src="js/d3.v3.min.js"></script>
+<script src="js/plotter.js"></script>
+
+</body>
+</html>
