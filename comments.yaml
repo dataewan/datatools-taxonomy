@@ -1,0 +1,39 @@
+Big Query: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+D3: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Excel: {Automatable: 'It isn''t that much fun most of the time, but there are some
+    pretty nice features that work well. Things like conditional formatting or the
+    connections to external data sources are pretty nice.', Good for complex tasks: 'Not
+    the best for complex stats or complex plotting. You can do these things in Excel,
+    but it is trickier than it should be, and feels quite hacky.', Good for easy tasks: 'Really
+    useful for simple reporting, especially if you use features like pivot tables.
+    Also good that most of your customers will know enough Excel to work with the
+    figures themselves in the sheet, if they want to figure things out themself.',
+  Good results quickly: Yep. Most of the time you can turn round what you want to
+    in a few minutes, Good with big data: Not really good with larger datasets. Better
+    than it used to be - there was a max of 65536 rows in older versions, Powerful: 'You
+    can make really good products using Excel, but the majority of the time they''re
+    not that great.', Training requirements: Pretty much everyone knows at least some
+    Excel. You can get folk doing quite complex things pretty quickly.}
+Hadoop and hive: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
+  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
+  Training requirements: ''}
+Mechanical Turk: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
+  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
+  Training requirements: ''}
+NoSQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Powerpoint: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Python: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+R: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+SQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Tableau: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
+  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Unix text tools: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
+  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
+  Training requirements: ''}

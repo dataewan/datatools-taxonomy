@@ -1,39 +1,41 @@
 - Ratings:
     Automatable:
       category: Automatable
-      comment: ''
+      comment: It isn't that much fun most of the time, but there are some pretty
+        nice features that work well. Things like conditional formatting or the connections
+        to external data sources are pretty nice.
       rating: 3
-    Flexible:
-      category: Flexible
-      comment: ''
-      rating: 4
-    Fun:
-      category: Fun
-      comment: ''
-      rating: 4
     Good for complex tasks:
       category: Good for complex tasks
-      comment: ''
-      rating: 6
+      comment: Not the best for complex stats or complex plotting. You can do these
+        things in Excel, but it is trickier than it should be, and feels quite hacky.
+      rating: 4
     Good for easy tasks:
       category: Good for easy tasks
-      comment: ''
+      comment: Really useful for simple reporting, especially if you use features
+        like pivot tables. Also good that most of your customers will know enough
+        Excel to work with the figures themselves in the sheet, if they want to figure
+        things out themself.
       rating: 8
     Good results quickly:
       category: Good results quickly
-      comment: ''
+      comment: Yep. Most of the time you can turn round what you want to in a few
+        minutes
       rating: 7
     Good with big data:
       category: Good with big data
-      comment: ''
+      comment: Not really good with larger datasets. Better than it used to be - there
+        was a max of 65536 rows in older versions
       rating: 3
     Powerful:
       category: Powerful
-      comment: ''
+      comment: You can make really good products using Excel, but the majority of
+        the time they're not that great.
       rating: 4
     Training requirements:
       category: Training requirements
-      comment: ''
+      comment: Pretty much everyone knows at least some Excel. You can get folk doing
+        quite complex things pretty quickly.
       rating: 8
   Tool: Excel
   Type: Analysis
