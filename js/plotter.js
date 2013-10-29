@@ -1,13 +1,15 @@
 
 
 d3.json("ratings.json", function(data){
-	var categories = ["Easy to use",
-						"Rapid",
-						"Learning requirements",
+	var categories = ["Good results quickly",
+						"Training requirements",
 						"Flexible",
+						"Automatable",
+						"Powerful",
 						"Good for easy tasks",
 						"Good for complex tasks",
-						"Good with big data"]
+            "Good with big data",
+            "Fun"]
 
 	var xselect = d3.select('#xselect');
 	var yselect = d3.select('#yselect');
