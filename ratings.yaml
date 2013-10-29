@@ -5,6 +5,18 @@
         nice features that work well. Things like conditional formatting or the connections
         to external data sources are pretty nice.
       rating: 3
+    Flexible:
+      category: Flexible
+      comment: Excel is very flexible, especially with extra extensions. Doesn't always
+        mean it is a good idea to use Excel as a database, a stats package, etc. You
+        often run into problems this way
+      rating: 6
+    Fun:
+      category: Fun
+      comment: I don't think you could really ever describe Excel as fun. There are
+        some pretty nice features though, and I have found myself doing things like
+        enjoying tweaking the conditional formatting.
+      rating: 4
     Good for complex tasks:
       category: Good for complex tasks
       comment: Not the best for complex stats or complex plotting. You can do these

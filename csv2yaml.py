@@ -46,12 +46,12 @@ class Converter:
                             'comment': self.comments[row['Tool']][key]
                             }
 
-                else:
-                    result['Ratings'][key] = {
-                        'category' : key,
-                        'rating' : int(row[key]),
-                        'comment': ''
-                        }
+                    else:
+                        result['Ratings'][key] = {
+                            'category' : key,
+                            'rating' : int(row[key]),
+                            'comment': ''
+                            }
             self.results.append(result)
 
     def output_and_complete(self):
