@@ -29,10 +29,4 @@ Here are some of the tools I'm going to categorise.
 
 ## How to categorise tools
 
- * Ease of use
- * Turnaround time
- * Ease to learn - training requirements
- * Flexibility
- * Performance for simple tasks
- * Performance with complex datasets
- * Performance with big data
+See the `what-ratings-mean.md` for more information on the categorisation I'm using.

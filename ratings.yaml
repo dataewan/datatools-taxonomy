@@ -1,105 +1,133 @@
 - Ratings:
-    Easy to use:
-      category: Easy to use
-      comment: Really easy to use.
-      rating: 7
+    Automatable:
+      category: Automatable
+      comment: ''
+      rating: 3
     Flexible:
       category: Flexible
+      comment: ''
+      rating: 4
+    Fun:
+      category: Fun
       comment: ''
       rating: 4
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 2
+      rating: 6
     Good for easy tasks:
       category: Good for easy tasks
+      comment: ''
+      rating: 8
+    Good results quickly:
+      category: Good results quickly
       comment: ''
       rating: 7
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 2
-    Learning requirements:
-      category: Learning requirements
+      rating: 3
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 6
-    Rapid:
-      category: Rapid
+      rating: 4
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 7
+      rating: 8
   Tool: Excel
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 6
+      rating: 1
     Flexible:
       category: Flexible
       comment: ''
-      rating: 4
+      rating: 2
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 1
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 2
+      rating: 4
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 7
+      rating: 6
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 5
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 2
-    Learning requirements:
-      category: Learning requirements
+      rating: 1
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 7
-    Rapid:
-      category: Rapid
+      rating: 3
+    Training requirements:
+      category: Training requirements
       comment: ''
       rating: 6
   Tool: Powerpoint
   Type: Presentation
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 8
+      rating: 5
     Flexible:
       category: Flexible
       comment: ''
-      rating: 4
+      rating: 5
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 7
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 2
+      rating: 6
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 8
+      rating: 7
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 5
     Good with big data:
       category: Good with big data
       comment: ''
       rating: 5
-    Learning requirements:
-      category: Learning requirements
+    Powerful:
+      category: Powerful
       comment: ''
       rating: 5
-    Rapid:
-      category: Rapid
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 8
+      rating: 7
   Tool: Tableau
   Type: Presentation
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 4
+      rating: 8
     Flexible:
       category: Flexible
       comment: ''
-      rating: 5
+      rating: 6
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 2
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
@@ -108,60 +136,76 @@
       category: Good for easy tasks
       comment: ''
       rating: 6
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 4
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 7
-    Learning requirements:
-      category: Learning requirements
+      rating: 6
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 7
-    Rapid:
-      category: Rapid
+      rating: 5
+    Training requirements:
+      category: Training requirements
       comment: ''
       rating: 6
   Tool: SQL
   Type: Storage
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 3
+      rating: 10
     Flexible:
       category: Flexible
       comment: ''
-      rating: 6
+      rating: 5
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 5
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 5
+      rating: 3
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 7
+      rating: 8
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 8
     Good with big data:
       category: Good with big data
       comment: ''
       rating: 8
-    Learning requirements:
-      category: Learning requirements
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 4
-    Rapid:
-      category: Rapid
+      rating: 3
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 9
+      rating: 2
   Tool: Unix text tools
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 7
+      rating: 10
     Flexible:
       category: Flexible
       comment: ''
       rating: 10
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 8
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
@@ -169,28 +213,36 @@
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 6
+      rating: 7
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 7
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 7
-    Learning requirements:
-      category: Learning requirements
+      rating: 8
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 5
-    Rapid:
-      category: Rapid
+      rating: 8
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 7
+      rating: 6
   Tool: Python
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 5
+      rating: 7
     Flexible:
       category: Flexible
+      comment: ''
+      rating: 6
+    Fun:
+      category: Fun
       comment: ''
       rating: 7
     Good for complex tasks:
@@ -200,173 +252,217 @@
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
+      rating: 4
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
       rating: 5
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 6
-    Learning requirements:
-      category: Learning requirements
+      rating: 4
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 3
-    Rapid:
-      category: Rapid
+      rating: 8
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 7
+      rating: 4
   Tool: R
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 8
+      rating: 3
     Flexible:
       category: Flexible
       comment: ''
-      rating: 9
+      rating: 7
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 7
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 6
+      rating: 3
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 10
+      rating: 7
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 8
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 5
-    Learning requirements:
-      category: Learning requirements
+      rating: 0
+    Powerful:
+      category: Powerful
+      comment: ''
+      rating: 4
+    Training requirements:
+      category: Training requirements
       comment: ''
       rating: 8
-    Rapid:
-      category: Rapid
-      comment: ''
-      rating: 6
   Tool: Mechanical Turk
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 3
+      rating: 7
     Flexible:
       category: Flexible
       comment: ''
       rating: 7
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 4
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 8
+      rating: 5
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
       rating: 2
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 3
     Good with big data:
       category: Good with big data
       comment: ''
       rating: 9
-    Learning requirements:
-      category: Learning requirements
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 4
-    Rapid:
-      category: Rapid
+      rating: 8
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 3
+      rating: 2
   Tool: Big Query
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 3
+      rating: 7
     Flexible:
       category: Flexible
       comment: ''
       rating: 6
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 4
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 8
+      rating: 5
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
       rating: 2
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 3
     Good with big data:
       category: Good with big data
       comment: ''
       rating: 9
-    Learning requirements:
-      category: Learning requirements
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 6
-    Rapid:
-      category: Rapid
+      rating: 8
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 3
+      rating: 2
   Tool: Hadoop and hive
   Type: Analysis
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 3
+      rating: 7
     Flexible:
       category: Flexible
       comment: ''
-      rating: 8
+      rating: 7
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 4
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 7
+      rating: 5
     Good for easy tasks:
       category: Good for easy tasks
+      comment: ''
+      rating: 2
+    Good results quickly:
+      category: Good results quickly
       comment: ''
       rating: 3
     Good with big data:
       category: Good with big data
       comment: ''
       rating: 9
-    Learning requirements:
-      category: Learning requirements
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 4
-    Rapid:
-      category: Rapid
+      rating: 5
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 3
+      rating: 2
   Tool: NoSQL
   Type: Storage
 - Ratings:
-    Easy to use:
-      category: Easy to use
+    Automatable:
+      category: Automatable
       comment: ''
-      rating: 6
+      rating: 7
     Flexible:
       category: Flexible
       comment: ''
       rating: 8
+    Fun:
+      category: Fun
+      comment: ''
+      rating: 9
     Good for complex tasks:
       category: Good for complex tasks
       comment: ''
-      rating: 8
+      rating: 9
     Good for easy tasks:
       category: Good for easy tasks
       comment: ''
-      rating: 5
+      rating: 2
+    Good results quickly:
+      category: Good results quickly
+      comment: ''
+      rating: 3
     Good with big data:
       category: Good with big data
       comment: ''
-      rating: 5
-    Learning requirements:
-      category: Learning requirements
+      rating: 6
+    Powerful:
+      category: Powerful
       comment: ''
-      rating: 5
-    Rapid:
-      category: Rapid
+      rating: 10
+    Training requirements:
+      category: Training requirements
       comment: ''
-      rating: 3
+      rating: 4
   Tool: D3
   Type: Presentation

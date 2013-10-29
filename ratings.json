@@ -1,39 +1,49 @@
 [
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 7
+        "rating": 3
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 4
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
-        "rating": 2
-      }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 2
+        "rating": 6
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 7
+        "rating": 8
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 6
+        "rating": 3
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 4
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
         "rating": 4
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
-        "comment": "Really easy to use.", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
+        "comment": "", 
         "rating": 7
       }
     }, 
@@ -42,40 +52,50 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 6
+        "rating": 1
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 3
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
-        "rating": 2
-      }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 2
+        "rating": 4
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 7
+        "rating": 6
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 7
+        "rating": 1
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 1
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 4
+        "rating": 2
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
         "comment": "", 
         "rating": 6
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
+        "comment": "", 
+        "rating": 5
       }
     }, 
     "Tool": "Powerpoint", 
@@ -83,40 +103,50 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
-        "comment": "", 
-        "rating": 8
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 2
-      }, 
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
         "rating": 5
       }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 6
+      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 8
+        "rating": 7
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
         "rating": 5
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 7
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 4
+        "rating": 5
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
         "comment": "", 
-        "rating": 8
+        "rating": 7
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
+        "comment": "", 
+        "rating": 5
       }
     }, 
     "Tool": "Tableau", 
@@ -124,38 +154,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
         "rating": 6
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 5
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
         "rating": 6
       }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 7
-      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
         "rating": 6
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 7
+        "rating": 8
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 2
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 5
+        "rating": 6
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 4
       }
@@ -165,40 +205,50 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
-        "comment": "", 
-        "rating": 9
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 5
-      }, 
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
         "rating": 8
       }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 3
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 3
+      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 7
+        "rating": 8
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 4
+        "rating": 10
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 5
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 6
+        "rating": 5
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
         "comment": "", 
-        "rating": 3
+        "rating": 2
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
+        "comment": "", 
+        "rating": 8
       }
     }, 
     "Tool": "Unix text tools", 
@@ -206,38 +256,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 7
+        "rating": 8
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 8
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
         "rating": 8
       }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 7
-      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 6
+        "rating": 7
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 5
+        "rating": 10
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 8
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
         "rating": 10
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 6
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 7
       }
@@ -247,38 +307,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 7
+        "rating": 4
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 8
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
         "rating": 9
       }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 6
-      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 5
+        "rating": 4
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 3
+        "rating": 7
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 7
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 7
+        "rating": 6
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 4
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 5
       }
@@ -288,38 +358,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 6
+        "rating": 0
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 4
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
-        "rating": 6
-      }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 5
+        "rating": 3
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 10
+        "rating": 7
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 8
+        "rating": 3
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 7
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 9
+        "rating": 7
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 8
       }
@@ -329,28 +409,33 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
-        "comment": "", 
-        "rating": 3
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 8
-      }, 
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
         "rating": 9
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 5
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
         "rating": 2
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Fun": {
+        "category": "Fun", 
         "comment": "", 
         "rating": 4
       }, 
@@ -359,8 +444,13 @@
         "comment": "", 
         "rating": 7
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 3
       }
@@ -370,38 +460,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
-        "comment": "", 
-        "rating": 3
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 8
-      }, 
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
         "rating": 9
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 8
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 5
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
         "rating": 2
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 6
+        "rating": 7
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 4
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
         "rating": 6
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 3
       }
@@ -411,38 +511,48 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
-        "comment": "", 
-        "rating": 3
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 7
-      }, 
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
         "rating": 9
       }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 5
+      }, 
+      "Good for complex tasks": {
+        "category": "Good for complex tasks", 
+        "comment": "", 
+        "rating": 5
+      }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 3
+        "rating": 2
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
+        "comment": "", 
+        "rating": 7
+      }, 
+      "Fun": {
+        "category": "Fun", 
         "comment": "", 
         "rating": 4
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
-        "rating": 8
+        "rating": 7
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
+        "comment": "", 
+        "rating": 2
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
         "comment": "", 
         "rating": 3
       }
@@ -452,40 +562,50 @@
   }, 
   {
     "Ratings": {
-      "Rapid": {
-        "category": "Rapid", 
+      "Good with big data": {
+        "category": "Good with big data", 
         "comment": "", 
-        "rating": 3
+        "rating": 6
+      }, 
+      "Powerful": {
+        "category": "Powerful", 
+        "comment": "", 
+        "rating": 10
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
         "comment": "", 
-        "rating": 8
-      }, 
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
-        "rating": 5
+        "rating": 9
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
         "comment": "", 
-        "rating": 5
+        "rating": 2
       }, 
-      "Learning requirements": {
-        "category": "Learning requirements", 
+      "Automatable": {
+        "category": "Automatable", 
         "comment": "", 
-        "rating": 5
+        "rating": 7
+      }, 
+      "Fun": {
+        "category": "Fun", 
+        "comment": "", 
+        "rating": 9
       }, 
       "Flexible": {
         "category": "Flexible", 
         "comment": "", 
         "rating": 8
       }, 
-      "Easy to use": {
-        "category": "Easy to use", 
+      "Training requirements": {
+        "category": "Training requirements", 
         "comment": "", 
-        "rating": 6
+        "rating": 4
+      }, 
+      "Good results quickly": {
+        "category": "Good results quickly", 
+        "comment": "", 
+        "rating": 3
       }
     }, 
     "Tool": "D3", 
