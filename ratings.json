@@ -54,47 +54,47 @@
     "Ratings": {
       "Good with big data": {
         "category": "Good with big data", 
-        "comment": "", 
+        "comment": "I can't find any evidence of Powerpoint being used in a big data environment. I can't see any good reason for Powerpoint to be used with big data. Happy to be proved wrong though.", 
         "rating": 1
       }, 
       "Powerful": {
         "category": "Powerful", 
-        "comment": "", 
+        "comment": "You can make some really good stuff using Powerpoint - <a href=\"http://www.forbes.com/sites/nickmorgan/2011/04/04/if-you-must-use-power-point-heres-how-to-do-it-5-tips-from-hans-rosling/\">Hans Rosling</a> is very good at this. Masterpieces in Powerpoint are few and far between though, you don't often get a wow factor from Powerpoint.", 
         "rating": 3
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
-        "comment": "", 
+        "comment": "You can make complex plots and layouts using Powerpoint, laying out your results in an attractive way is quite easy. It isn't a very natural tool for any advanced plotting, I'd advise that you do that elsewhere, but you can make plots elsewhere and then put them in a Powerpoint for general consumption.", 
         "rating": 4
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
-        "comment": "", 
+        "comment": "Powerpoint is an easily digestible format for data analysis, especially if you have a clear narrative flow. It isn't a great tool for presenting results, so have a think about your other options - written reports are a particularly good alternative.", 
         "rating": 6
       }, 
       "Automatable": {
         "category": "Automatable", 
-        "comment": "", 
+        "comment": "I've never found a system that automates Powerpoint well. The closest I've got is making plots using another tool, then dumping them into Powerpoint.", 
         "rating": 1
       }, 
       "Fun": {
         "category": "Fun", 
-        "comment": "", 
+        "comment": "Hard to describe using Powerpoint as fun.", 
         "rating": 1
       }, 
       "Flexible": {
         "category": "Flexible", 
-        "comment": "", 
-        "rating": 2
+        "comment": "Powerpoint is farily flexible, a bit of creativity goes a long way. It isn't great at anything beyond a slide deck, but that's what you really need it for.", 
+        "rating": 5
       }, 
       "Training requirements": {
         "category": "Training requirements", 
-        "comment": "", 
+        "comment": "Everyone has some experience with Powerpoint and most people can probably bash out a few slides easily enough. If you want to make anything more impressive though, it becomes increasingly fiddly. Training people how to make good slides in Powerpoint is quite difficult.", 
         "rating": 6
       }, 
       "Good results quickly": {
         "category": "Good results quickly", 
-        "comment": "", 
+        "comment": "You can knock out a presentation quickly. To get good results though, I find you have to spend a long time fiddling about with your slides to get them looking just right.", 
         "rating": 5
       }
     }, 

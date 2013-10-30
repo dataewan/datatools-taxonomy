@@ -29,8 +29,30 @@ Mechanical Turk: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks
   Training requirements: ''}
 NoSQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
-Powerpoint: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Powerpoint: {Automatable: 'I''ve never found a system that automates Powerpoint well.
+    The closest I''ve got is making plots using another tool, then dumping them into
+    Powerpoint.', Flexible: 'Powerpoint is farily flexible, a bit of creativity goes
+    a long way. It isn''t great at anything beyond a slide deck, but that''s what
+    you really need it for.', Fun: Hard to describe using Powerpoint as fun., Good for complex tasks: 'You
+    can make complex plots and layouts using Powerpoint, laying out your results in
+    an attractive way is quite easy. It isn''t a very natural tool for any advanced
+    plotting, I''d advise that you do that elsewhere, but you can make plots elsewhere
+    and then put them in a Powerpoint for general consumption.', Good for easy tasks: 'Powerpoint
+    is an easily digestible format for data analysis, especially if you have a clear
+    narrative flow. It isn''t a great tool for presenting results, so have a think
+    about your other options - written reports are a particularly good alternative.',
+  Good results quickly: 'You can knock out a presentation quickly. To get good results
+    though, I find you have to spend a long time fiddling about with your slides to
+    get them looking just right.', Good with big data: I can't find any evidence of
+    Powerpoint being used in a big data environment. I can't see any good reason for
+    Powerpoint to be used with big data. Happy to be proved wrong though., Powerful: 'You
+    can make some really good stuff using Powerpoint - <a href="http://www.forbes.com/sites/nickmorgan/2011/04/04/if-you-must-use-power-point-heres-how-to-do-it-5-tips-from-hans-rosling/">Hans
+    Rosling</a> is very good at this. Masterpieces in Powerpoint are few and far between
+    though, you don''t often get a wow factor from Powerpoint.', Training requirements: 'Everyone
+    has some experience with Powerpoint and most people can probably bash out a few
+    slides easily enough. If you want to make anything more impressive though, it
+    becomes increasingly fiddly. Training people how to make good slides in Powerpoint
+    is quite difficult.'}
 Python: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
 R: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
