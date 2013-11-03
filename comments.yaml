@@ -116,6 +116,25 @@ Tableau: {Automatable: 'Tableau doesn''t provide a scripting language, or much a
     but I''m happy to be proved wrong.', Training requirements: Tableau is very easy
     to use. There are also lots of good training courses if you want to send people
     on them to get them working quickly.}
-Unix text tools: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
-  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
-  Training requirements: ''}
+Unix text tools: {Automatable: 'Unix text tools are highly automatable - you can just
+    pipe the output from one to another, redirecting the output to text file.', Flexible: 'Fairly
+    flexible. They work best with simple text files - one record per line, delimited
+    or fixed width columns. Formats like JSON or XML are trickier, but not impossible,
+    to use.', Fun: 'Not fun exactly, but there is certainly a feeling of accomplishment
+    when you make a long command line that does a complex task quicker than you could
+    with other more heavyweight tools.', Good for complex tasks: 'Not great for complex
+    tasks by themselves, but there are <a href="http://blog.factual.com/nfu-command-line-numeric-fu">some
+    tools</a> that take the unix text processing philosophy and apply it to trickier
+    data science problems.', Good for easy tasks: 'Very good for simple tasks. Often
+    you can avoid having to write a script or do some spreadsheet work, just by using
+    a couple of command line tools.', Good results quickly: Repeated use of the tools
+    means they become second nature to you. You can split the task down into sub-tasks
+    suitable for the different tools almost as fast as you can type them in at the
+    shell., Good with big data: 'These tools were written when computers had very
+    little memory, so everything was "big data". They continue to work surprisingly
+    well with huge datasets. They might not be very fast with large datasets, but
+    they are unlikely to run out of memory.', Powerful: 'These tools never do anything
+    that useful by themselves, they''re mainly useful as a small part of your data
+    processing pipeline.', Training requirements: 'Very difficult to train people
+    in the usage of these tools, particularly if they haven''t used the command line
+    much before.'}

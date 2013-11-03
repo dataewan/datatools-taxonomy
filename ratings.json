@@ -207,47 +207,47 @@
     "Ratings": {
       "Good with big data": {
         "category": "Good with big data", 
-        "comment": "", 
+        "comment": "These tools were written when computers had very little memory, so everything was \"big data\". They continue to work surprisingly well with huge datasets. They might not be very fast with large datasets, but they are unlikely to run out of memory.", 
         "rating": 3
       }, 
       "Powerful": {
         "category": "Powerful", 
-        "comment": "", 
+        "comment": "These tools never do anything that useful by themselves, they're mainly useful as a small part of your data processing pipeline.", 
         "rating": -2
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
-        "comment": "", 
+        "comment": "Not great for complex tasks by themselves, but there are <a href=\"http://blog.factual.com/nfu-command-line-numeric-fu\">some tools</a> that take the unix text processing philosophy and apply it to trickier data science problems.", 
         "rating": -2
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
-        "comment": "", 
+        "comment": "Very good for simple tasks. Often you can avoid having to write a script or do some spreadsheet work, just by using a couple of command line tools.", 
         "rating": 3
       }, 
       "Automatable": {
         "category": "Automatable", 
-        "comment": "", 
+        "comment": "Unix text tools are highly automatable - you can just pipe the output from one to another, redirecting the output to text file.", 
         "rating": 5
       }, 
       "Fun": {
         "category": "Fun", 
-        "comment": "", 
+        "comment": "Not fun exactly, but there is certainly a feeling of accomplishment when you make a long command line that does a complex task quicker than you could with other more heavyweight tools.", 
         "rating": 0
       }, 
       "Flexible": {
         "category": "Flexible", 
-        "comment": "", 
+        "comment": "Fairly flexible. They work best with simple text files - one record per line, delimited or fixed width columns. Formats like JSON or XML are trickier, but not impossible, to use.", 
         "rating": 0
       }, 
       "Training requirements": {
         "category": "Training requirements", 
-        "comment": "", 
+        "comment": "Very difficult to train people in the usage of these tools, particularly if they haven't used the command line much before.", 
         "rating": -3
       }, 
       "Good results quickly": {
         "category": "Good results quickly", 
-        "comment": "", 
+        "comment": "Repeated use of the tools means they become second nature to you. You can split the task down into sub-tasks suitable for the different tools almost as fast as you can type them in at the shell.", 
         "rating": 3
       }
     }, 
