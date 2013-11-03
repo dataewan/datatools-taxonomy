@@ -70,7 +70,7 @@ d3.json("ratings.json", function(data){
 
 	// setup the xscale
 	var xscale = d3.scale.linear()
-		.domain([0, 10])
+		.domain([-5, 5])
 		.range([0, width]);
 	
 	// draw the xaxis
@@ -78,12 +78,12 @@ d3.json("ratings.json", function(data){
 		.scale(xscale)
 	plot.append("g")
 		.attr("class", "x axis")
-		.attr("transform", "translate(0, "+ height +")")
+		.attr("transform", "translate(0, "+ height/2 +")")
 		.call(xaxis);
 
 	// setup the yscale
 	var yscale = d3.scale.linear()
-		.domain([0, 10])
+		.domain([-5, 5])
 		.range([height, 0]);
 	// draw the yaxis
 	var yaxis = d3.svg.axis()
@@ -91,6 +91,7 @@ d3.json("ratings.json", function(data){
 		.orient("left")
 	plot.append("g")
 		.attr("class", "y axis")
+    .attr("transform", "translate("+ width/2 +", 0)")
 		.call(yaxis);
 
 	// there are some labels that provide additional information. select these for use later
