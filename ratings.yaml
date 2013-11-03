@@ -111,39 +111,39 @@
 - Ratings:
     Automatable:
       category: Automatable
-      comment: ''
+      comment: Tableau doesn't provide a scripting language, or much acces to the underlying VizQL language. So automation of Tableau itself is fairly limited. The best way to automate Tableau is to make your data extracts in another tool, then point the Tableau workbook at the automated extract.
       rating: 0
     Flexible:
       category: Flexible
-      comment: ''
+      comment: Tableau can deal with a wide variety of data formats. It can also do some pretty impressive automatic clean up of your data - automatic geo-coding for example. On the other hand, it doesn't work flexibly with certain data sources (for example, getting Tableau and an OLAP cube to work together is a painful experience) and getting Tableau to do any reasonably complex calculations is difficult and requires you to learn hacky tricks.
       rating: 0
     Fun:
       category: Fun
-      comment: ''
+      comment: When you can make something that looks so impressive so quickly, Tableau feels fun to use. Sometimes, when you try and use it for something outside it's comfort zone it can be a tremendously frustrating experience to use Tableau. Stick to Tableau's strengths and it is a lot of fun.
       rating: 2
     Good for complex tasks:
       category: Good for complex tasks
-      comment: ''
+      comment: There is some support for things like timeseries forecasting, or advanced plots like treemaps and scatter plots. I'd suggest there are better places to do really advanced work - you need a proper stats package to do really heavy lifting. For moderately advanced work, Tableau is a good option.
       rating: 1
     Good for easy tasks:
       category: Good for easy tasks
-      comment: ''
+      comment: You can make impressive looking results quickly using Tableau, and the plots are easy to understand. There are limitations around simple things like table formatting, or laying out your plots in a narrative flow, which might make it tricky to do simple tasks you are used to doing.
       rating: 2
     Good results quickly:
       category: Good results quickly
-      comment: ''
+      comment: You can make results very quickly using Tableau - it is all drag and drop, point and click, easy. If you try and go outside Tableau's comfort zone then you can waste a lot of time, but stick to what it is good at and you get your results quickly.
       rating: 0
     Good with big data:
       category: Good with big data
-      comment: ''
+      comment: Tableau has support for a variety of <a href="http://www.tableausoftware.com/new-features/big-data">big data</a> tools. I've never tried them, so I can't comment on how good they are. Tabeau seem to be taking this side of their business very seriously.
       rating: 0
     Powerful:
       category: Powerful
-      comment: ''
+      comment: People can make very fancy looking dashboards using Tableau, with fancy plots and lots of interactivity. These plots and interactivity are fairly standard though. I'd suggest that there hasn't really been a "wow" data visualisation that uses Tableau, but I'm happy to be proved wrong.
       rating: 0
     Training requirements:
       category: Training requirements
-      comment: ''
+      comment: Tableau is very easy to use. There are also lots of good training courses if you want to send people on them to get them working quickly.
       rating: 2
   Tool: Tableau
   Type: Presentation
