@@ -27,7 +27,7 @@ d3.json("ratings.json", function(data){
 		.data(categories)
 		.enter()
 		.append("li")
-		.text(function(d) { return d; })
+		.html(function(d) { return d; })
 		.classed("selected", function(d){
 			return d === xlab;
 		})
@@ -43,7 +43,7 @@ d3.json("ratings.json", function(data){
 		.data(categories)
 		.enter()
 		.append("li")
-		.text(function(d) { return d; })
+		.html(function(d) { return d; })
 		.classed("selected", function(d){
 			return d === ylab;
 		})
@@ -126,10 +126,10 @@ d3.json("ratings.json", function(data){
 
 				selectedpoint = d;
 
-				toollabel.text(d.Tool);
+				toollabel.html(d.Tool);
 				// These take additional information from the json and add it
-				xinfo.text(d['Ratings'][xlab]['comment']);
-				yinfo.text(d['Ratings'][ylab]['comment']);
+				xinfo.html(d['Ratings'][xlab]['comment']);
+				yinfo.html(d['Ratings'][ylab]['comment']);
 
 			})
 			.on('mouseout', function(d, i){
@@ -161,12 +161,12 @@ d3.json("ratings.json", function(data){
 
 			if (typeof selectedpoint === "undefined"){
 				// if the selected point is underfined, clear the info panels
-				xinfo.text("");
-				yinfo.text("");	
+				xinfo.html("");
+				yinfo.html("");	
 			} else {
 				// extract the data from the selected point to update the additional information stuff
-				xinfo.text(selectedpoint['Ratings'][xlab]['comment']);
-				yinfo.text(selectedpoint['Ratings'][ylab]['comment']);
+				xinfo.html(selectedpoint['Ratings'][xlab]['comment']);
+				yinfo.html(selectedpoint['Ratings'][ylab]['comment']);
 
 			}
 			
