@@ -1,0 +1,67 @@
+div.top_container{
+	width: 1400px;
+}
+
+div#controls{
+	width: 200px;
+	float: left;
+}
+
+div#taxplot{
+	width: 800px;
+	float: left;
+}
+
+div#additionalinformation{
+	width: 400px;
+	float: left;
+}
+
+
+.axis path,
+.axis line{
+	fill: none;
+	stroke: black;
+	shape-rendering: crisp-edges;
+}
+.axis .tick{
+	display: none;
+}
+
+
+body{
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: Georgia, serif;
+	color: SlateGray;
+}
+
+
+li.selected{
+	color: tomato;
+	background-color: #eee;
+}
+
+ul.axisselector{
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+div#xinfo{
+	margin-bottom: 2em;
+}

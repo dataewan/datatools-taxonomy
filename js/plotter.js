@@ -14,6 +14,9 @@ d3.json("ratings.json", function(data){
 	var xselect = d3.select('#xselect');
 	var yselect = d3.select('#yselect');
 
+	var xcategorylabel = d3.select('#xcategorylabel');
+	var ycategorylabel = d3.select('#ycategorylabel');
+
 	// init the selected values of the x and y axis to the first and second items in the lists
 	var xlab = categories[0];
 	var ylab = categories[1];
@@ -52,7 +55,7 @@ d3.json("ratings.json", function(data){
 
 	// variables that control the size of the plot
 	var height = 600;
-	var width  = 800;
+	var width  = 600;
 	var padding= 100;
 
 	// this holds the data for the selected point
@@ -146,6 +149,7 @@ d3.json("ratings.json", function(data){
 			.classed("selected", function(d){
 				return d === ylab;
 			});
+		// TODO, want to make the category labels update.
 	};
 
 	function updateChart(){
@@ -162,7 +166,8 @@ d3.json("ratings.json", function(data){
 			} else {
 				// extract the data from the selected point to update the additional information stuff
 				xinfo.text(selectedpoint['Ratings'][xlab]['comment']);
-				yinfo.text(selectedpoint['Ratings'][ylab]['comment']);	
+				yinfo.text(selectedpoint['Ratings'][ylab]['comment']);
+
 			}
 			
 		}

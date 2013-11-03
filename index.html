@@ -4,28 +4,13 @@
 	<meta charset="UTF-8">
 	<title>Data Taxonomy</title>
 </head>
+<link rel="stylesheet" href="css/main.css">
 
-<style>
-	
-	li.selected{
-		color: tomato;
-	}
-
-	div#controls{
-		float: left;
-	}
-
-	div#taxplot{
-		float: left;
-	}
-
-	div#additionalinformation{
-		float: left;
-	}
-</style>
 <body>
-<h1>Data Taxonomy</h1>
 
+<div class="top_container">
+	
+	<h1>Data Taxonomy</h1>
 	<div id="controls">
 		<div>
 			<span>
@@ -40,24 +25,25 @@
 			</span>
 		</div>
 	</div>
-	<div id="taxplot">
-		
+	<div id="taxplot">	
 	</div>
-
 	<div id='additionalinformation'>
-		<h1 id="toollabel">
+		<h2 id="toollabel">
+
 			
-		</h1>
+		</h2>
 
 		<div id="xinfo">
+		<h3 id="xcategorylabel" class="categorylabel"></h3>
 			
 		</div>
 
 		<div id="yinfo">
+		<h3 id="ycategorylabel" class="categorylabel"></h3>
 			
 		</div>
 	</div>
-
+</div>
 <script src="js/lodash.min.js"></script>
 <script src="js/d3.v3.min.js"></script>
 <script src="js/plotter.js"></script>
