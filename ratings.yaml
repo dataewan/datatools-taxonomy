@@ -176,39 +176,59 @@
 - Ratings:
     Automatable:
       category: Automatable
-      comment: ''
+      comment: Automation is really easy using SQL. You have the option of using the
+        command line, or there are fantastic libraries for every programming language
+        out there. SQL is a very mature tool, so everything knows how to interface
+        with it.
       rating: 3
     Flexible:
       category: Flexible
-      comment: ''
+      comment: You can use SQL for a lot more than just extracting data. Simple aggregations
+        and reporting are easily possible using the language.
       rating: 1
     Fun:
       category: Fun
-      comment: ''
+      comment: I never find it much fun; remembering which table to join on which
+        key or dealing with data type problems.
       rating: -3
     Good for complex tasks:
       category: Good for complex tasks
-      comment: ''
+      comment: I don't use SQL for anything complex. Usually it is better to do the
+        complex stats using something else. There are extensions for most distributions
+        of SQL that do things like statistics, but it is usually better to do anything
+        complex in something else.
       rating: 1
     Good for easy tasks:
       category: Good for easy tasks
-      comment: ''
+      comment: SQL is a fairly good option for running simple repeated reporting.
+        It takes longer to do the initial setup of your report, but repeating it is
+        very easy. The output isn't usually very pretty though, so you need to format
+        it before giving it to your stakeholders.
       rating: 1
     Good results quickly:
       category: Good results quickly
-      comment: ''
+      comment: It is difficult to make your data extract quickly, unless you know
+        your schema like the back of your hand. Also, if you want anything more complex
+        than a data table you have to put additional work in afterwards.
       rating: -1
     Good with big data:
       category: Good with big data
-      comment: ''
+      comment: SQL is surprisingly good with "big data", <a href="http://www.postgresql.org/">Postgres</a>
+        seems to cope pretty well with big datasets. I'd advise that you give it a
+        try first, before jumping into the world of big data tools.
       rating: 1
     Powerful:
       category: Powerful
-      comment: ''
+      comment: SQL can't really do anything amazing by itself. You do have a much
+        better chance of making something spectacular if you're backed by a structured
+        database, than if you're depending on text files or other messy data types.
       rating: 0
     Training requirements:
       category: Training requirements
-      comment: ''
+      comment: SQL takes a bit of time to get used to. But, once you have the basics
+        sorted you'll be very productive. You don't need to be a SQL master to get
+        good results. There are <a href="http://sqlzoo.net/wiki/Main_Page">good online
+        tutorials</a> available as well.
       rating: 1
   Tool: SQL
   Type: Storage

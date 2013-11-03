@@ -57,8 +57,32 @@ Python: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Goo
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
 R: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
-SQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+SQL: {Automatable: 'Automation is really easy using SQL. You have the option of using
+    the command line, or there are fantastic libraries for every programming language
+    out there. SQL is a very mature tool, so everything knows how to interface with
+    it.', Flexible: You can use SQL for a lot more than just extracting data. Simple
+    aggregations and reporting are easily possible using the language., Fun: I never
+    find it much fun; remembering which table to join on which key or dealing with
+    data type problems., Good for complex tasks: 'I don''t use SQL for anything complex.
+    Usually it is better to do the complex stats using something else. There are extensions
+    for most distributions of SQL that do things like statistics, but it is usually
+    better to do anything complex in something else.', Good for easy tasks: 'SQL is
+    a fairly good option for running simple repeated reporting. It takes longer to
+    do the initial setup of your report, but repeating it is very easy. The output
+    isn''t usually very pretty though, so you need to format it before giving it to
+    your stakeholders.', Good results quickly: 'It is difficult to make your data
+    extract quickly, unless you know your schema like the back of your hand. Also,
+    if you want anything more complex than a data table you have to put additional
+    work in afterwards.', Good with big data: 'SQL is surprisingly good with "big
+    data", <a href="http://www.postgresql.org/">Postgres</a> seems to cope pretty
+    well with big datasets. I''d advise that you give it a try first, before jumping
+    into the world of big data tools.', Powerful: 'SQL can''t really do anything amazing
+    by itself. You do have a much better chance of making something spectacular if
+    you''re backed by a structured database, than if you''re depending on text files
+    or other messy data types.', Training requirements: 'SQL takes a bit of time to
+    get used to. But, once you have the basics sorted you''ll be very productive.
+    You don''t need to be a SQL master to get good results. There are <a href="http://sqlzoo.net/wiki/Main_Page">good
+    online tutorials</a> available as well.'}
 Tableau: {Automatable: 'Tableau doesn''t provide a scripting language, or much acces
     to the underlying VizQL language. So automation of Tableau itself is fairly limited.
     The best way to automate Tableau is to make your data extracts in another tool,
