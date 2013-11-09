@@ -22,9 +22,23 @@ Excel: {Automatable: 'It isn''t that much fun most of the time, but there are so
 Hadoop and hive: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
   Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
   Training requirements: ''}
-Mechanical Turk: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
-  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
-  Training requirements: ''}
+Mechanical Turk: {Automatable: 'You need to make the task easy for humans to do, which
+    probably means it won''t be automatable. Also, you might have to do some data
+    cleaning.', Flexible: 'You can ask for people to do a wide variety of tasks. <a
+    href="http://blog.echen.me/2012/04/25/making-the-most-of-mechanical-turk-tips-and-best-practices/">This
+    post</a> gives some interesting examples.', Fun: 'You''re outsourcing a task that
+    you don''t want to do, or you don''t have time to do. This is fun, you don''t
+    have to do the job you don''t want to!', Good for complex tasks: Not useful for
+    any complex stats tasks. Quite useful if you're trying to build up a training
+    set for classification though., Good for easy tasks: Mechanical Turk works well
+    if you ask people to do something simple., Good results quickly: It is as easy
+    as writing down the steps you need to take. Really easy., Good with big data: Not
+    useful with big data - it would be very expensive and take a very long time to
+    process a large dataset., Powerful: 'I don''t think you''ll make anything impressive
+    purely with Mechanical Turk, but I do think it can be a useful part of a data
+    based project.', Training requirements: 'You need to be clear when you specify
+    the steps to take, which takes some thought. Apart from that, Mechanical Turk
+    is very easy to use.'}
 NoSQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
 Powerpoint: {Automatable: 'I''ve never found a system that automates Powerpoint well.

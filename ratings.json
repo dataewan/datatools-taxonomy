@@ -360,47 +360,47 @@
     "Ratings": {
       "Good with big data": {
         "category": "Good with big data", 
-        "comment": "", 
+        "comment": "Not useful with big data - it would be very expensive and take a very long time to process a large dataset.", 
         "rating": -5
       }, 
       "Powerful": {
         "category": "Powerful", 
-        "comment": "", 
+        "comment": "I don't think you'll make anything impressive purely with Mechanical Turk, but I do think it can be a useful part of a data based project.", 
         "rating": -1
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
-        "comment": "", 
+        "comment": "Not useful for any complex stats tasks. Quite useful if you're trying to build up a training set for classification though.", 
         "rating": -2
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
-        "comment": "", 
+        "comment": "Mechanical Turk works well if you ask people to do something simple.", 
         "rating": 2
       }, 
       "Automatable": {
         "category": "Automatable", 
-        "comment": "", 
+        "comment": "You need to make the task easy for humans to do, which probably means it won't be automatable. Also, you might have to do some data cleaning.", 
         "rating": -2
       }, 
       "Fun": {
         "category": "Fun", 
-        "comment": "", 
+        "comment": "You're outsourcing a task that you don't want to do, or you don't have time to do. This is fun, you don't have to do the job you don't want to!", 
         "rating": 2
       }, 
       "Flexible": {
         "category": "Flexible", 
-        "comment": "", 
+        "comment": "You can ask for people to do a wide variety of tasks. <a href=\"http://blog.echen.me/2012/04/25/making-the-most-of-mechanical-turk-tips-and-best-practices/\">This post</a> gives some interesting examples.", 
         "rating": 2
       }, 
       "Training requirements": {
         "category": "Training requirements", 
-        "comment": "", 
+        "comment": "You need to be clear when you specify the steps to take, which takes some thought. Apart from that, Mechanical Turk is very easy to use.", 
         "rating": 3
       }, 
       "Good results quickly": {
         "category": "Good results quickly", 
-        "comment": "", 
+        "comment": "It is as easy as writing down the steps you need to take. Really easy.", 
         "rating": 3
       }
     }, 
