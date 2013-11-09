@@ -353,39 +353,55 @@
 - Ratings:
     Automatable:
       category: Automatable
-      comment: ''
+      comment: R is quite good at linking data from other programs or databases. Not
+        quite as automatable as Python, but still very good.
       rating: 2
     Flexible:
       category: Flexible
-      comment: ''
+      comment: Traditionally R is quite inflexible, it sticks to pure statistical
+        analysis and doesn't do things like manipulation of data or making attractive
+        plots. However, there are some excellent libraries from <a href="http://had.co.nz/">Hadley
+        Wickham</a> that allow R to do some very useful things.
       rating: 1
     Fun:
       category: Fun
-      comment: ''
+      comment: R lets you do very complicated things easily. For me, this is fun.
       rating: 2
     Good for complex tasks:
       category: Good for complex tasks
-      comment: ''
+      comment: In my opinion, R is the best option if you want to do complex statistical
+        analysis. <a href="http://ggplot2.org/">ggplot2</a> means it is a good option
+        for data visualisation as well.
       rating: 4
     Good for easy tasks:
       category: Good for easy tasks
-      comment: ''
+      comment: R isn't a good option for really simple tasks. You can do them in R
+        (eventually), but you're making life difficult for yourself.
       rating: -1
     Good results quickly:
       category: Good results quickly
-      comment: ''
+      comment: The syntax of R is fiddly and inconsistent. This makes it more time-consuming
+        than it should be to program R.
       rating: 0
     Good with big data:
       category: Good with big data
-      comment: ''
+      comment: There are options for <a href="http://www.r-pbd.org/">programming big
+        data in R</a>, but I've not tried these out. I find R difficult to work with
+        if the dataset is larger than available memory. Better to sample or aggregate
+        the data somewhere else first.
       rating: -1
     Powerful:
       category: Powerful
-      comment: ''
+      comment: R's power is that it lets you do very complex mathematical and statistical
+        analysis. If you want to try out a new technique or algorithm, R makes it
+        very easy to do. <a href="http://cran.r-project.org/">CRAN</a> is an excellent
+        resource with libraries for pretty much any type of statistical analysis.
       rating: 3
     Training requirements:
       category: Training requirements
-      comment: ''
+      comment: R is a programming language for statisticians. This means that it has
+        some very odd syntax at times. It can be very difficult to learn, even if
+        you're teaching an experienced programmer.
       rating: -1
   Tool: R
   Type: Analysis

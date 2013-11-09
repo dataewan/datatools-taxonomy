@@ -82,8 +82,28 @@ Python: {Automatable: 'Highly automatable. Easily read data from other sources, 
     is an easy language to learn, it would be a good choice for someone who has never
     programmed before. If you have done coding before, the syntax might be confusing,
     but you get used to it after a while.'}
-R: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+R: {Automatable: 'R is quite good at linking data from other programs or databases.
+    Not quite as automatable as Python, but still very good.', Flexible: 'Traditionally
+    R is quite inflexible, it sticks to pure statistical analysis and doesn''t do
+    things like manipulation of data or making attractive plots. However, there are
+    some excellent libraries from <a href="http://had.co.nz/">Hadley Wickham</a> that
+    allow R to do some very useful things.', Fun: 'R lets you do very complicated
+    things easily. For me, this is fun.', Good for complex tasks: 'In my opinion,
+    R is the best option if you want to do complex statistical analysis. <a href="http://ggplot2.org/">ggplot2</a>
+    means it is a good option for data visualisation as well.', Good for easy tasks: 'R
+    isn''t a good option for really simple tasks. You can do them in R (eventually),
+    but you''re making life difficult for yourself.', Good results quickly: The syntax
+    of R is fiddly and inconsistent. This makes it more time-consuming than it should
+    be to program R., Good with big data: 'There are options for <a href="http://www.r-pbd.org/">programming
+    big data in R</a>, but I''ve not tried these out. I find R difficult to work with
+    if the dataset is larger than available memory. Better to sample or aggregate
+    the data somewhere else first.', Powerful: 'R''s power is that it lets you do
+    very complex mathematical and statistical analysis. If you want to try out a new
+    technique or algorithm, R makes it very easy to do. <a href="http://cran.r-project.org/">CRAN</a>
+    is an excellent resource with libraries for pretty much any type of statistical
+    analysis.', Training requirements: 'R is a programming language for statisticians.
+    This means that it has some very odd syntax at times. It can be very difficult
+    to learn, even if you''re teaching an experienced programmer.'}
 SQL: {Automatable: 'Automation is really easy using SQL. You have the option of using
     the command line, or there are fantastic libraries for every programming language
     out there. SQL is a very mature tool, so everything knows how to interface with
