@@ -53,8 +53,35 @@ Powerpoint: {Automatable: 'I''ve never found a system that automates Powerpoint 
     slides easily enough. If you want to make anything more impressive though, it
     becomes increasingly fiddly. Training people how to make good slides in Powerpoint
     is quite difficult.'}
-Python: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+Python: {Automatable: 'Highly automatable. Easily read data from other sources, process
+    it and output it using a single program. Python can be used as a replacement for
+    shell scripts. You can also call other programs through Python.', Flexible: 'There
+    is a huge variety of libraries available to Python, and you can easily install
+    more using the pip command. There are excellent libraries for <a href="http://www.scipy.org/">scientific
+    and mathematical work</a>, <a href="http://pandas.pydata.org/">manipulation of
+    data</a>, <a href="http://scikit-learn.org/stable/">machine learning</a> and <a
+    href="http://nltk.org/">natural language processing</a>.</br>Python doesn''t have
+    great libraries for data visualisation yet, and for heavy statistics work I generally
+    use R. Aside from that, you can do anything with Python.', Fun: 'Python is quite
+    good fun to program in. You can be very productive easily. It is a very high level
+    language, so programming in Python is a lot more fun than say C. It can still
+    be frustrating to find and fix bugs, but Python is quite good fun.', Good for complex tasks: 'Python
+    is very flexible, so it can do a lot of complex things. Python is a bit weak around
+    data visualisation and doing complex statistical work, so I give Python a lower
+    mark here.', Good for easy tasks: 'While Python can certainly do the easy tasks,
+    it is probably not the best option for a trivial task. It would be like using
+    a sledgehammer to open a walnut.', Good results quickly: 'Python has a fairly
+    simple syntax, so you can write your code quite quickly. Coding is still a time
+    consuming, but you''re quicker in Python than in other languages.', Good with big data: 'Python
+    is an increasingly good option for big data analysis. See the <a href="http://discoproject.org/">Disco
+    project</a> and this question on <a href="http://stackoverflow.com/questions/4322559/how-to-get-started-with-big-data-analysis">StackOverflow</a>.
+    You have to change your programming style to avoid running out of memory, but
+    Python can cope with large datasets well.', Powerful: 'Python is very powerful,
+    you can make very impressive results using Python. You generally need to combine
+    it with another tool to do the presentation of data though.', Training requirements: 'It
+    is an easy language to learn, it would be a good choice for someone who has never
+    programmed before. If you have done coding before, the syntax might be confusing,
+    but you get used to it after a while.'}
 R: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
   Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
 SQL: {Automatable: 'Automation is really easy using SQL. You have the option of using
