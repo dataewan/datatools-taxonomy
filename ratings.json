@@ -462,47 +462,47 @@
     "Ratings": {
       "Good with big data": {
         "category": "Good with big data", 
-        "comment": "", 
+        "comment": "D3 performs surprisingly well with a large number of elements. You don't usually visualise big data in its raw form - you aggregate, sample and filter the data first.", 
         "rating": 1
       }, 
       "Powerful": {
         "category": "Powerful", 
-        "comment": "", 
+        "comment": "You can make spectacular end products using D3.", 
         "rating": 5
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
-        "comment": "", 
+        "comment": "D3 can make so many different kinds of plots. A really versatile tool that can make some very sophisticated visualisations.", 
         "rating": 4
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
-        "comment": "", 
+        "comment": "D3 takes time. If you just want a simple chart, I'd suggest using something else. Only use D3 if you want interactivity, animation, or a non-standard chart.", 
         "rating": -3
       }, 
       "Automatable": {
         "category": "Automatable", 
-        "comment": "", 
+        "comment": "D3 works well with CSV and JSON formats. If you can get your data into either of those formats, D3 will work well.", 
         "rating": 2
       }, 
       "Fun": {
         "category": "Fun", 
-        "comment": "", 
+        "comment": "Making a plot in D3 is fun. There is something very satisfying about tweaking a plot to make it look exactly the way you want.", 
         "rating": 4
       }, 
       "Flexible": {
         "category": "Flexible", 
-        "comment": "", 
+        "comment": "There is a huge range of things you can use D3 for. <a href=\"http://bl.ocks.org/mbostock\">This gallery</a> shows off a lot of options.", 
         "rating": 3
       }, 
       "Training requirements": {
         "category": "Training requirements", 
-        "comment": "", 
+        "comment": "You need to know javascript (or coffeescript) first. After that, there are <a href=\"https://github.com/mbostock/d3/wiki/Tutorials\">lots of tutorials</a> to follow.", 
         "rating": -1
       }, 
       "Good results quickly": {
         "category": "Good results quickly", 
-        "comment": "", 
+        "comment": "You're programming to make a chart, so it isn't as quick as other options. There are projects to make D3 quicker; <a href=\"http://nvd3.org/\">NVD3</a> provides reusable charts, <a href=\"https://github.com/trifacta/vega\">Vega</a> is another project to simplify D3 development.", 
         "rating": -2
       }
     }, 

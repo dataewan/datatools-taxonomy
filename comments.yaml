@@ -1,5 +1,21 @@
-D3: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
+D3: {Automatable: 'D3 works well with CSV and JSON formats. If you can get your data
+    into either of those formats, D3 will work well.', Flexible: 'There is a huge
+    range of things you can use D3 for. <a href="http://bl.ocks.org/mbostock">This
+    gallery</a> shows off a lot of options.', Fun: Making a plot in D3 is fun. There
+    is something very satisfying about tweaking a plot to make it look exactly the
+    way you want., Good for complex tasks: D3 can make so many different kinds of
+    plots. A really versatile tool that can make some very sophisticated visualisations.,
+  Good for easy tasks: 'D3 takes time. If you just want a simple chart, I''d suggest
+    using something else. Only use D3 if you want interactivity, animation, or a non-standard
+    chart.', Good results quickly: 'You''re programming to make a chart, so it isn''t
+    as quick as other options. There are projects to make D3 quicker; <a href="http://nvd3.org/">NVD3</a>
+    provides reusable charts, <a href="https://github.com/trifacta/vega">Vega</a>
+    is another project to simplify D3 development.', Good with big data: 'D3 performs
+    surprisingly well with a large number of elements. You don''t usually visualise
+    big data in its raw form - you aggregate, sample and filter the data first.',
+  Powerful: You can make spectacular end products using D3., Training requirements: 'You
+    need to know javascript (or coffeescript) first. After that, there are <a href="https://github.com/mbostock/d3/wiki/Tutorials">lots
+    of tutorials</a> to follow.'}
 Excel: {Automatable: 'It isn''t that much fun most of the time, but there are some
     pretty nice features that work well. Things like conditional formatting or the
     connections to external data sources are pretty nice.', Flexible: 'Excel is very
@@ -56,8 +72,6 @@ Mechanical Turk: {Automatable: 'You need to make the task easy for humans to do,
     based project.', Training requirements: 'You need to be clear when you specify
     the steps to take, which takes some thought. Apart from that, Mechanical Turk
     is very easy to use.'}
-NoSQL: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '', Good for easy tasks: '',
-  Good results quickly: '', Good with big data: '', Powerful: '', Training requirements: ''}
 Powerpoint: {Automatable: 'I''ve never found a system that automates Powerpoint well.
     The closest I''ve got is making plots using another tool, then dumping them into
     Powerpoint.', Flexible: 'Powerpoint is farily flexible, a bit of creativity goes
