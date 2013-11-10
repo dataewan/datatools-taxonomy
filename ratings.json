@@ -463,57 +463,6 @@
       "Good with big data": {
         "category": "Good with big data", 
         "comment": "", 
-        "rating": 4
-      }, 
-      "Powerful": {
-        "category": "Powerful", 
-        "comment": "", 
-        "rating": 0
-      }, 
-      "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "", 
-        "rating": 0
-      }, 
-      "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "", 
-        "rating": -3
-      }, 
-      "Automatable": {
-        "category": "Automatable", 
-        "comment": "", 
-        "rating": 2
-      }, 
-      "Fun": {
-        "category": "Fun", 
-        "comment": "", 
-        "rating": -1
-      }, 
-      "Flexible": {
-        "category": "Flexible", 
-        "comment": "", 
-        "rating": 2
-      }, 
-      "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "", 
-        "rating": -3
-      }, 
-      "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "", 
-        "rating": -2
-      }
-    }, 
-    "Tool": "NoSQL", 
-    "Type": "Storage"
-  }, 
-  {
-    "Ratings": {
-      "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "", 
         "rating": 1
       }, 
       "Powerful": {
