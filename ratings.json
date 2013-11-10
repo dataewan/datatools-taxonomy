@@ -411,47 +411,47 @@
     "Ratings": {
       "Good with big data": {
         "category": "Good with big data", 
-        "comment": "", 
+        "comment": "Yes, hadoop is excellent for work with big data.", 
         "rating": 4
       }, 
       "Powerful": {
         "category": "Powerful", 
-        "comment": "", 
+        "comment": "Using Hadoop means you have a gigantic dataset. A gigantic dataset can give you incredibly powerful results. <a href=\"http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/35179.pdf\">The incredible effectiveness of data</a> is a good essay on this topic.", 
         "rating": 3
       }, 
       "Good for complex tasks": {
         "category": "Good for complex tasks", 
-        "comment": "", 
+        "comment": "Hadoop and hive aren't very good at complex statistical analysis - <a href=\"http://stackoverflow.com/questions/10109514/computing-median-in-map-reduce\">even finding the median is tricky</a>. If you have a gigantic dataset, often you don't need to do anything particularly clever. The sheer volume of data means that valuable results are easy to get.", 
         "rating": 0
       }, 
       "Good for easy tasks": {
         "category": "Good for easy tasks", 
-        "comment": "", 
+        "comment": "It would be silly to use hadoop for your easy tasks. One thing it is useful for is aggregating large volumes of data. So you could use it to aggregate your very granular information into a more useful form.", 
         "rating": -3
       }, 
       "Automatable": {
         "category": "Automatable", 
-        "comment": "", 
+        "comment": "Easy to write out the output to files or databases.", 
         "rating": 2
       }, 
       "Fun": {
         "category": "Fun", 
-        "comment": "", 
+        "comment": "You have to think in a very different way to solve problems with Hadoop. It takes a long time to figure out how to do even simple things. Once you get the hang of it it does start to feel more natural.", 
         "rating": -1
       }, 
       "Flexible": {
         "category": "Flexible", 
-        "comment": "", 
+        "comment": "Hadoop by itself is very inflexible. Hive the query language increases the range of tasks you can do with Hadoop somewhat, but it is still relatively inflexible.", 
         "rating": 1
       }, 
       "Training requirements": {
         "category": "Training requirements", 
-        "comment": "", 
+        "comment": "You need to understand how map-reduce works before you can start learning hadoop. It isn't simple, so teaching people about it is tricky.", 
         "rating": -3
       }, 
       "Good results quickly": {
         "category": "Good results quickly", 
-        "comment": "", 
+        "comment": "You have to take extra time to frame your problem in a way that will work with map-reduce. Solving a problem with hadoop means it takes a lot longer.", 
         "rating": -2
       }
     }, 

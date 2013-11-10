@@ -19,9 +19,26 @@ Excel: {Automatable: 'It isn''t that much fun most of the time, but there are so
     can make really good products using Excel, but the majority of the time they''re
     not that great.', Training requirements: Pretty much everyone knows at least some
     Excel. You can get folk doing quite complex things pretty quickly.}
-Hadoop and hive: {Automatable: '', Flexible: '', Fun: '', Good for complex tasks: '',
-  Good for easy tasks: '', Good results quickly: '', Good with big data: '', Powerful: '',
-  Training requirements: ''}
+Hadoop and hive: {Automatable: Easy to write out the output to files or databases.,
+  Flexible: 'Hadoop by itself is very inflexible. Hive the query language increases
+    the range of tasks you can do with Hadoop somewhat, but it is still relatively
+    inflexible.', Fun: You have to think in a very different way to solve problems
+    with Hadoop. It takes a long time to figure out how to do even simple things.
+    Once you get the hang of it it does start to feel more natural., Good for complex tasks: 'Hadoop
+    and hive aren''t very good at complex statistical analysis - <a href="http://stackoverflow.com/questions/10109514/computing-median-in-map-reduce">even
+    finding the median is tricky</a>. If you have a gigantic dataset, often you don''t
+    need to do anything particularly clever. The sheer volume of data means that valuable
+    results are easy to get.', Good for easy tasks: It would be silly to use hadoop
+    for your easy tasks. One thing it is useful for is aggregating large volumes of
+    data. So you could use it to aggregate your very granular information into a more
+    useful form., Good results quickly: You have to take extra time to frame your
+    problem in a way that will work with map-reduce. Solving a problem with hadoop
+    means it takes a lot longer., Good with big data: 'Yes, hadoop is excellent for
+    work with big data.', Powerful: 'Using Hadoop means you have a gigantic dataset.
+    A gigantic dataset can give you incredibly powerful results. <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/35179.pdf">The
+    incredible effectiveness of data</a> is a good essay on this topic.', Training requirements: 'You
+    need to understand how map-reduce works before you can start learning hadoop.
+    It isn''t simple, so teaching people about it is tricky.'}
 Mechanical Turk: {Automatable: 'You need to make the task easy for humans to do, which
     probably means it won''t be automatable. Also, you might have to do some data
     cleaning.', Flexible: 'You can ask for people to do a wide variety of tasks. <a
