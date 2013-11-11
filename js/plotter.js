@@ -27,8 +27,8 @@ d3.json("ratings.json", function(data){
 	var xselect = d3.select('#xselect');
 	var yselect = d3.select('#yselect');
 
-	var xcategorylabel = d3.select('#xcategorylabel');
-	var ycategorylabel = d3.select('#ycategorylabel');
+    var xcategorylabel = d3.select('#xcategorylabel');
+    var ycategorylabel = d3.select('#ycategorylabel');
 
 	// init the selected values of the x and y axis to the first and second items in the lists
 	var xlab = categories[0];
@@ -142,6 +142,8 @@ d3.json("ratings.json", function(data){
 				// These take additional information from the json and add it
 				xinfo.html(d['Ratings'][xlab]['comment']);
 				yinfo.html(d['Ratings'][ylab]['comment']);
+                xcategorylabel.html(xlab);
+                ycategorylabel.html(ylab);
 
 			})
 			.on('mouseout', function(d, i){
@@ -162,6 +164,7 @@ d3.json("ratings.json", function(data){
 				return d === ylab;
 			});
 		// TODO, want to make the category labels update.
+
 	};
 
 	function updateChart(){
@@ -179,6 +182,8 @@ d3.json("ratings.json", function(data){
 				// extract the data from the selected point to update the additional information stuff
 				xinfo.html(selectedpoint['Ratings'][xlab]['comment']);
 				yinfo.html(selectedpoint['Ratings'][ylab]['comment']);
+                xcategorylabel.html(xlab);
+                ycategorylabel.html(ylab);
 
 			}
 
