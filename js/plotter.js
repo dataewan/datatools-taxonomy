@@ -177,6 +177,10 @@ d3.json("ratings.json", function(data){
 			.classed("selected", function(d){
 				return d === ylab;
 			});
+
+        xaxislabel.text(xlab);
+        yaxislabel.text(ylab);
+
 	};
 
 	function updateChart(){
