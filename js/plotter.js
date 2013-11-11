@@ -163,8 +163,6 @@ d3.json("ratings.json", function(data){
 			.classed("selected", function(d){
 				return d === ylab;
 			});
-		// TODO, want to make the category labels update.
-
 	};
 
 	function updateChart(){
