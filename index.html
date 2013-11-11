@@ -9,9 +9,10 @@
 <body>
 
 <div class="top_container">
-	
+
 	<h1>Data Taxonomy</h1>
 	<div id="controls">
+		<b>Controls</b>
 		<div>
 			<span>
 			x-axis
@@ -24,23 +25,42 @@
 			<span>
 			</span>
 		</div>
+
+		<div class="instructions">
+			<b>Instructions</b>
+			<p>Select the categories you want to compare on the x and y axis above.</p>
+			<p>If you want more information on why each tool gets each ranking, hover your mouse over the points.</p>
+		</div>
+
+
 	</div>
-	<div id="taxplot">	
+	<div id="taxplot">
+			<span id="label" class="key">Type of tool</span>
+			<span id="analysis" class="key">
+			Analysis
+		</span>
+		<span id="storage" class="key">
+			Storage
+		</span>
+		<span id="presentation" class="key">
+			Presentation
+		</span>
+
 	</div>
 	<div id='additionalinformation'>
 		<h2 id="toollabel">
 
-			
+
 		</h2>
 
 		<div id="xinfo">
 		<h3 id="xcategorylabel" class="categorylabel"></h3>
-			
+
 		</div>
 
 		<div id="yinfo">
 		<h3 id="ycategorylabel" class="categorylabel"></h3>
-			
+
 		</div>
 	</div>
 </div>

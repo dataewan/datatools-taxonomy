@@ -2,511 +2,511 @@
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "Not really good with larger datasets. Better than it used to be - there was a max of 65536 rows in older versions", 
+        "category": "Good with big data",
+        "comment": "Not really good with larger datasets. Better than it used to be - there was a max of 65536 rows in older versions",
         "rating": -2
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "You can make really good products using Excel, but the majority of the time they're not that great.", 
+        "category": "Powerful",
+        "comment": "You can make really good products using Excel, but the majority of the time they're not that great.",
         "rating": -1
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "Not the best for complex stats or complex plotting. You can do these things in Excel, but it is trickier than it should be, and feels quite hacky.", 
+        "category": "Good for complex tasks",
+        "comment": "Not the best for complex stats or complex plotting. You can do these things in Excel, but it is trickier than it should be, and feels quite hacky.",
         "rating": -1
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "Really useful for simple reporting, especially if you use features like pivot tables. Also good that most of your customers will know enough Excel to work with the figures themselves in the sheet, if they want to figure things out themself.", 
+        "category": "Good for easy tasks",
+        "comment": "Really useful for simple reporting, especially if you use features like pivot tables. Also good that most of your customers will know enough Excel to work with the figures themselves in the sheet, if they want to figure things out themself.",
         "rating": 3
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "It isn't that much fun most of the time, but there are some pretty nice features that work well. Things like conditional formatting or the connections to external data sources are pretty nice.", 
+        "category": "Automatable",
+        "comment": "It isn't that much fun most of the time, but there are some pretty nice features that work well. Things like conditional formatting or the connections to external data sources are pretty nice.",
         "rating": -2
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "I don't think you could really ever describe Excel as fun. There are some pretty nice features though, and I have found myself doing things like enjoying tweaking the conditional formatting.", 
+        "category": "Fun",
+        "comment": "I don't think you could really ever describe Excel as fun. There are some pretty nice features though, and I have found myself doing things like enjoying tweaking the conditional formatting.",
         "rating": -1
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Excel is very flexible, especially with extra extensions. Doesn't always mean it is a good idea to use Excel as a database, a stats package, etc. You often run into problems this way", 
+        "category": "Flexible",
+        "comment": "Excel is very flexible, especially with extra extensions. Doesn't always mean it is a good idea to use Excel as a database, a stats package, etc. You often run into problems this way",
         "rating": 1
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "Pretty much everyone knows at least some Excel. You can get folk doing quite complex things pretty quickly.", 
+        "category": "Training requirements",
+        "comment": "Pretty much everyone knows at least some Excel. You can get folk doing quite complex things pretty quickly.",
         "rating": 3
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "Yep. Most of the time you can turn round what you want to in a few minutes", 
+        "category": "Good results quickly",
+        "comment": "Yep. Most of the time you can turn round what you want to in a few minutes",
         "rating": 2
       }
-    }, 
-    "Tool": "Excel", 
+    },
+    "Tool": "Excel",
     "Type": "Analysis"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "I can't find any evidence of Powerpoint being used in a big data environment. I can't see any good reason for Powerpoint to be used with big data. Happy to be proved wrong though.", 
+        "category": "Good with big data",
+        "comment": "I can't find any evidence of Powerpoint being used in a big data environment. I can't see any good reason for Powerpoint to be used with big data. Happy to be proved wrong though.",
         "rating": -4
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "You can make some really good stuff using Powerpoint - <a href=\"http://www.forbes.com/sites/nickmorgan/2011/04/04/if-you-must-use-power-point-heres-how-to-do-it-5-tips-from-hans-rosling/\">Hans Rosling</a> is very good at this. Masterpieces in Powerpoint are few and far between though, you don't often get a wow factor from Powerpoint.", 
+        "category": "Powerful",
+        "comment": "You can make some really good stuff using Powerpoint - <a href=\"http://www.forbes.com/sites/nickmorgan/2011/04/04/if-you-must-use-power-point-heres-how-to-do-it-5-tips-from-hans-rosling/\">Hans Rosling</a> is very good at this. Masterpieces in Powerpoint are few and far between though, you don't often get a wow factor from Powerpoint.",
         "rating": -2
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "You can make complex plots and layouts using Powerpoint, laying out your results in an attractive way is quite easy. It isn't a very natural tool for any advanced plotting, I'd advise that you do that elsewhere, but you can make plots elsewhere and then put them in a Powerpoint for general consumption.", 
+        "category": "Good for complex tasks",
+        "comment": "You can make complex plots and layouts using Powerpoint, laying out your results in an attractive way is quite easy. It isn't a very natural tool for any advanced plotting, I'd advise that you do that elsewhere, but you can make plots elsewhere and then put them in a Powerpoint for general consumption.",
         "rating": -1
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "Powerpoint is an easily digestible format for data analysis, especially if you have a clear narrative flow. It isn't a great tool for presenting results, so have a think about your other options - written reports are a particularly good alternative.", 
+        "category": "Good for easy tasks",
+        "comment": "Powerpoint is an easily digestible format for data analysis, especially if you have a clear narrative flow. It isn't a great tool for presenting results, so have a think about your other options - written reports are a particularly good alternative.",
         "rating": 1
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "I've never found a system that automates Powerpoint well. The closest I've got is making plots using another tool, then dumping them into Powerpoint.", 
+        "category": "Automatable",
+        "comment": "I've never found a system that automates Powerpoint well. The closest I've got is making plots using another tool, then dumping them into Powerpoint.",
         "rating": -4
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "Hard to describe using Powerpoint as fun.", 
+        "category": "Fun",
+        "comment": "Hard to describe using Powerpoint as fun.",
         "rating": -4
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Powerpoint is farily flexible, a bit of creativity goes a long way. It isn't great at anything beyond a slide deck, but that's what you really need it for.", 
+        "category": "Flexible",
+        "comment": "Powerpoint is farily flexible, a bit of creativity goes a long way. It isn't great at anything beyond a slide deck, but that's what you really need it for.",
         "rating": 0
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "Everyone has some experience with Powerpoint and most people can probably bash out a few slides easily enough. If you want to make anything more impressive though, it becomes increasingly fiddly. Training people how to make good slides in Powerpoint is quite difficult.", 
+        "category": "Training requirements",
+        "comment": "Everyone has some experience with Powerpoint and most people can probably bash out a few slides easily enough. If you want to make anything more impressive though, it becomes increasingly fiddly. Training people how to make good slides in Powerpoint is quite difficult.",
         "rating": 1
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "You can knock out a presentation quickly. To get good results though, I find you have to spend a long time fiddling about with your slides to get them looking just right.", 
+        "category": "Good results quickly",
+        "comment": "You can knock out a presentation quickly. To get good results though, I find you have to spend a long time fiddling about with your slides to get them looking just right.",
         "rating": 0
       }
-    }, 
-    "Tool": "Powerpoint", 
+    },
+    "Tool": "Powerpoint",
     "Type": "Presentation"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "Tableau has support for a variety of <a href=\"http://www.tableausoftware.com/new-features/big-data\">big data</a> tools. I've never tried them, so I can't comment on how good they are. Tabeau seem to be taking this side of their business very seriously.", 
+        "category": "Good with big data",
+        "comment": "Tableau has support for a variety of <a href=\"http://www.tableausoftware.com/new-features/big-data\">big data</a> tools. I've never tried them, so I can't comment on how good they are. Tabeau seem to be taking this side of their business very seriously.",
         "rating": 0
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "People can make very fancy looking dashboards using Tableau, with fancy plots and lots of interactivity. These plots and interactivity are fairly standard though. I'd suggest that there hasn't really been a \"wow\" data visualisation that uses Tableau, but I'm happy to be proved wrong.", 
+        "category": "Powerful",
+        "comment": "People can make very fancy looking dashboards using Tableau, with fancy plots and lots of interactivity. These plots and interactivity are fairly standard though. I'd suggest that there hasn't really been a \"wow\" data visualisation that uses Tableau, but I'm happy to be proved wrong.",
         "rating": 0
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "There is some support for things like timeseries forecasting, or advanced plots like treemaps and scatter plots. I'd suggest there are better places to do really advanced work - you need a proper stats package to do really heavy lifting. For moderately advanced work, Tableau is a good option.", 
+        "category": "Good for complex tasks",
+        "comment": "There is some support for things like timeseries forecasting, or advanced plots like treemaps and scatter plots. I'd suggest there are better places to do really advanced work - you need a proper stats package to do really heavy lifting. For moderately advanced work, Tableau is a good option.",
         "rating": 1
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "You can make impressive looking results quickly using Tableau, and the plots are easy to understand. There are limitations around simple things like table formatting, or laying out your plots in a narrative flow, which might make it tricky to do simple tasks you are used to doing.", 
+        "category": "Good for easy tasks",
+        "comment": "You can make impressive looking results quickly using Tableau, and the plots are easy to understand. There are limitations around simple things like table formatting, or laying out your plots in a narrative flow, which might make it tricky to do simple tasks you are used to doing.",
         "rating": 2
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "Tableau doesn't provide a scripting language, or much acces to the underlying VizQL language. So automation of Tableau itself is fairly limited. The best way to automate Tableau is to make your data extracts in another tool, then point the Tableau workbook at the automated extract.", 
+        "category": "Automatable",
+        "comment": "Tableau doesn't provide a scripting language, or much acces to the underlying VizQL language. So automation of Tableau itself is fairly limited. The best way to automate Tableau is to make your data extracts in another tool, then point the Tableau workbook at the automated extract.",
         "rating": 0
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "When you can make something that looks so impressive so quickly, Tableau feels fun to use. Sometimes, when you try and use it for something outside it's comfort zone it can be a tremendously frustrating experience to use Tableau. Stick to Tableau's strengths and it is a lot of fun.", 
+        "category": "Fun",
+        "comment": "When you can make something that looks so impressive so quickly, Tableau feels fun to use. Sometimes, when you try and use it for something outside it's comfort zone it can be a tremendously frustrating experience to use Tableau. Stick to Tableau's strengths and it is a lot of fun.",
         "rating": 2
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Tableau can deal with a wide variety of data formats. It can also do some pretty impressive automatic clean up of your data - automatic geo-coding for example. On the other hand, it doesn't work flexibly with certain data sources (for example, getting Tableau and an OLAP cube to work together is a painful experience) and getting Tableau to do any reasonably complex calculations is difficult and requires you to learn hacky tricks.", 
+        "category": "Flexible",
+        "comment": "Tableau can deal with a wide variety of data formats. It can also do some pretty impressive automatic clean up of your data - automatic geo-coding for example. On the other hand, it doesn't work flexibly with certain data sources (for example, getting Tableau and an OLAP cube to work together is a painful experience) and getting Tableau to do any reasonably complex calculations is difficult and requires you to learn hacky tricks.",
         "rating": 0
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "Tableau is very easy to use. There are also lots of good training courses if you want to send people on them to get them working quickly.", 
+        "category": "Training requirements",
+        "comment": "Tableau is very easy to use. There are also lots of good training courses if you want to send people on them to get them working quickly.",
         "rating": 2
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "You can make results very quickly using Tableau - it is all drag and drop, point and click, easy. If you try and go outside Tableau's comfort zone then you can waste a lot of time, but stick to what it is good at and you get your results quickly.", 
+        "category": "Good results quickly",
+        "comment": "You can make results very quickly using Tableau - it is all drag and drop, point and click, easy. If you try and go outside Tableau's comfort zone then you can waste a lot of time, but stick to what it is good at and you get your results quickly.",
         "rating": 0
       }
-    }, 
-    "Tool": "Tableau", 
+    },
+    "Tool": "Tableau",
     "Type": "Presentation"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "SQL is surprisingly good with \"big data\", <a href=\"http://www.postgresql.org/\">Postgres</a> seems to cope pretty well with big datasets. I'd advise that you give it a try first, before jumping into the world of big data tools.", 
+        "category": "Good with big data",
+        "comment": "SQL is surprisingly good with \"big data\", <a href=\"http://www.postgresql.org/\">Postgres</a> seems to cope pretty well with big datasets. I'd advise that you give it a try first, before jumping into the world of big data tools.",
         "rating": 1
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "SQL can't really do anything amazing by itself. You do have a much better chance of making something spectacular if you're backed by a structured database, than if you're depending on text files or other messy data types.", 
+        "category": "Powerful",
+        "comment": "SQL can't really do anything amazing by itself. You do have a much better chance of making something spectacular if you're backed by a structured database, than if you're depending on text files or other messy data types.",
         "rating": 0
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "I don't use SQL for anything complex. Usually it is better to do the complex stats using something else. There are extensions for most distributions of SQL that do things like statistics, but it is usually better to do anything complex in something else.", 
+        "category": "Good for complex tasks",
+        "comment": "I don't use SQL for anything complex. Usually it is better to do the complex stats using something else. There are extensions for most distributions of SQL that do things like statistics, but it is usually better to do anything complex in something else.",
         "rating": 1
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "SQL is a fairly good option for running simple repeated reporting. It takes longer to do the initial setup of your report, but repeating it is very easy. The output isn't usually very pretty though, so you need to format it before giving it to your stakeholders.", 
+        "category": "Good for easy tasks",
+        "comment": "SQL is a fairly good option for running simple repeated reporting. It takes longer to do the initial setup of your report, but repeating it is very easy. The output isn't usually very pretty though, so you need to format it before giving it to your stakeholders.",
         "rating": 1
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "Automation is really easy using SQL. You have the option of using the command line, or there are fantastic libraries for every programming language out there. SQL is a very mature tool, so everything knows how to interface with it.", 
+        "category": "Automatable",
+        "comment": "Automation is really easy using SQL. You have the option of using the command line, or there are fantastic libraries for every programming language out there. SQL is a very mature tool, so everything knows how to interface with it.",
         "rating": 3
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "I never find it much fun; remembering which table to join on which key or dealing with data type problems.", 
+        "category": "Fun",
+        "comment": "I never find it much fun; remembering which table to join on which key or dealing with data type problems.",
         "rating": -3
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "You can use SQL for a lot more than just extracting data. Simple aggregations and reporting are easily possible using the language.", 
+        "category": "Flexible",
+        "comment": "You can use SQL for a lot more than just extracting data. Simple aggregations and reporting are easily possible using the language.",
         "rating": 1
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "SQL takes a bit of time to get used to. But, once you have the basics sorted you'll be very productive. You don't need to be a SQL master to get good results. There are <a href=\"http://sqlzoo.net/wiki/Main_Page\">good online tutorials</a> available as well.", 
+        "category": "Training requirements",
+        "comment": "SQL takes a bit of time to get used to. But, once you have the basics sorted you'll be very productive. You don't need to be a SQL master to get good results. There are <a href=\"http://sqlzoo.net/wiki/Main_Page\">good online tutorials</a> available as well.",
         "rating": 1
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "It is difficult to make your data extract quickly, unless you know your schema like the back of your hand. Also, if you want anything more complex than a data table you have to put additional work in afterwards.", 
+        "category": "Good results quickly",
+        "comment": "It is difficult to make your data extract quickly, unless you know your schema like the back of your hand. Also, if you want anything more complex than a data table you have to put additional work in afterwards.",
         "rating": -1
       }
-    }, 
-    "Tool": "SQL", 
+    },
+    "Tool": "SQL",
     "Type": "Storage"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "These tools were written when computers had very little memory, so everything was \"big data\". They continue to work surprisingly well with huge datasets. They might not be very fast with large datasets, but they are unlikely to run out of memory.", 
+        "category": "Good with big data",
+        "comment": "These tools were written when computers had very little memory, so everything was \"big data\". They continue to work surprisingly well with huge datasets. They might not be very fast with large datasets, but they are unlikely to run out of memory.",
         "rating": 3
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "These tools never do anything that useful by themselves, they're mainly useful as a small part of your data processing pipeline.", 
+        "category": "Powerful",
+        "comment": "These tools never do anything that useful by themselves, they're mainly useful as a small part of your data processing pipeline.",
         "rating": -2
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "Not great for complex tasks by themselves, but there are <a href=\"http://blog.factual.com/nfu-command-line-numeric-fu\">some tools</a> that take the unix text processing philosophy and apply it to trickier data science problems.", 
+        "category": "Good for complex tasks",
+        "comment": "Not great for complex tasks by themselves, but there are <a href=\"http://blog.factual.com/nfu-command-line-numeric-fu\">some tools</a> that take the unix text processing philosophy and apply it to trickier data science problems.",
         "rating": -2
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "Very good for simple tasks. Often you can avoid having to write a script or do some spreadsheet work, just by using a couple of command line tools.", 
+        "category": "Good for easy tasks",
+        "comment": "Very good for simple tasks. Often you can avoid having to write a script or do some spreadsheet work, just by using a couple of command line tools.",
         "rating": 3
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "Unix text tools are highly automatable - you can just pipe the output from one to another, redirecting the output to text file.", 
+        "category": "Automatable",
+        "comment": "Unix text tools are highly automatable - you can just pipe the output from one to another, redirecting the output to text file.",
         "rating": 5
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "Not fun exactly, but there is certainly a feeling of accomplishment when you make a long command line that does a complex task quicker than you could with other more heavyweight tools.", 
+        "category": "Fun",
+        "comment": "Not fun exactly, but there is certainly a feeling of accomplishment when you make a long command line that does a complex task quicker than you could with other more heavyweight tools.",
         "rating": 0
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Fairly flexible. They work best with simple text files - one record per line, delimited or fixed width columns. Formats like JSON or XML are trickier, but not impossible, to use.", 
+        "category": "Flexible",
+        "comment": "Fairly flexible. They work best with simple text files - one record per line, delimited or fixed width columns. Formats like JSON or XML are trickier, but not impossible, to use.",
         "rating": 0
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "Very difficult to train people in the usage of these tools, particularly if they haven't used the command line much before.", 
+        "category": "Training requirements",
+        "comment": "Very difficult to train people in the usage of these tools, particularly if they haven't used the command line much before.",
         "rating": -3
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "Repeated use of the tools means they become second nature to you. You can split the task down into sub-tasks suitable for the different tools almost as fast as you can type them in at the shell.", 
+        "category": "Good results quickly",
+        "comment": "Repeated use of the tools means they become second nature to you. You can split the task down into sub-tasks suitable for the different tools almost as fast as you can type them in at the shell.",
         "rating": 3
       }
-    }, 
-    "Tool": "Unix text tools", 
+    },
+    "Tool": "Unix text tools",
     "Type": "Analysis"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "Python is an increasingly good option for big data analysis. See the <a href=\"http://discoproject.org/\">Disco project</a> and this question on <a href=\"http://stackoverflow.com/questions/4322559/how-to-get-started-with-big-data-analysis\">StackOverflow</a>. You have to change your programming style to avoid running out of memory, but Python can cope with large datasets well.", 
+        "category": "Good with big data",
+        "comment": "Python is an increasingly good option for big data analysis. See the <a href=\"http://discoproject.org/\">Disco project</a> and this question on <a href=\"http://stackoverflow.com/questions/4322559/how-to-get-started-with-big-data-analysis\">StackOverflow</a>. You have to change your programming style to avoid running out of memory, but Python can cope with large datasets well.",
         "rating": 3
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "Python is very powerful, you can make very impressive results using Python. You generally need to combine it with another tool to do the presentation of data though.", 
+        "category": "Powerful",
+        "comment": "Python is very powerful, you can make very impressive results using Python. You generally need to combine it with another tool to do the presentation of data though.",
         "rating": 3
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "Python is very flexible, so it can do a lot of complex things. Python is a bit weak around data visualisation and doing complex statistical work, so I give Python a lower mark here.", 
+        "category": "Good for complex tasks",
+        "comment": "Python is very flexible, so it can do a lot of complex things. Python is a bit weak around data visualisation and doing complex statistical work, so I give Python a lower mark here.",
         "rating": 3
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "While Python can certainly do the easy tasks, it is probably not the best option for a trivial task. It would be like using a sledgehammer to open a walnut.", 
+        "category": "Good for easy tasks",
+        "comment": "While Python can certainly do the easy tasks, it is probably not the best option for a trivial task. It would be like using a sledgehammer to open a walnut.",
         "rating": 2
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "Highly automatable. Easily read data from other sources, process it and output it using a single program. Python can be used as a replacement for shell scripts. You can also call other programs through Python.", 
+        "category": "Automatable",
+        "comment": "Highly automatable. Easily read data from other sources, process it and output it using a single program. Python can be used as a replacement for shell scripts. You can also call other programs through Python.",
         "rating": 5
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "Python is quite good fun to program in. You can be very productive easily. It is a very high level language, so programming in Python is a lot more fun than say C. It can still be frustrating to find and fix bugs, but Python is quite good fun.", 
+        "category": "Fun",
+        "comment": "Python is quite good fun to program in. You can be very productive easily. It is a very high level language, so programming in Python is a lot more fun than say C. It can still be frustrating to find and fix bugs, but Python is quite good fun.",
         "rating": 3
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "There is a huge variety of libraries available to Python, and you can easily install more using the pip command. There are excellent libraries for <a href=\"http://www.scipy.org/\">scientific and mathematical work</a>, <a href=\"http://pandas.pydata.org/\">manipulation of data</a>, <a href=\"http://scikit-learn.org/stable/\">machine learning</a> and <a href=\"http://nltk.org/\">natural language processing</a>.</br>Python doesn't have great libraries for data visualisation yet, and for heavy statistics work I generally use R. Aside from that, you can do anything with Python.", 
+        "category": "Flexible",
+        "comment": "There is a huge variety of libraries available to Python, and you can easily install more using the pip command. There are excellent libraries for <a href=\"http://www.scipy.org/\">scientific and mathematical work</a>, <a href=\"http://pandas.pydata.org/\">manipulation of data</a>, <a href=\"http://scikit-learn.org/stable/\">machine learning</a> and <a href=\"http://nltk.org/\">natural language processing</a>.</br>Python doesn't have great libraries for data visualisation yet, and for heavy statistics work I generally use R. Aside from that, you can do anything with Python.",
         "rating": 5
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "It is an easy language to learn, it would be a good choice for someone who has never programmed before. If you have done coding before, the syntax might be confusing, but you get used to it after a while.", 
+        "category": "Training requirements",
+        "comment": "It is an easy language to learn, it would be a good choice for someone who has never programmed before. If you have done coding before, the syntax might be confusing, but you get used to it after a while.",
         "rating": 1
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "Python has a fairly simple syntax, so you can write your code quite quickly. Coding is still a time consuming, but you're quicker in Python than in other languages.", 
+        "category": "Good results quickly",
+        "comment": "Python has a fairly simple syntax, so you can write your code quite quickly. Coding is still a time consuming, but you're quicker in Python than in other languages.",
         "rating": 2
       }
-    }, 
-    "Tool": "Python", 
+    },
+    "Tool": "Python",
     "Type": "Analysis"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "There are options for <a href=\"http://www.r-pbd.org/\">programming big data in R</a>, but I've not tried these out. I find R difficult to work with if the dataset is larger than available memory. Better to sample or aggregate the data somewhere else first.", 
+        "category": "Good with big data",
+        "comment": "There are options for <a href=\"http://www.r-pbd.org/\">programming big data in R</a>, but I've not tried these out. I find R difficult to work with if the dataset is larger than available memory. Better to sample or aggregate the data somewhere else first.",
         "rating": -1
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "R's power is that it lets you do very complex mathematical and statistical analysis. If you want to try out a new technique or algorithm, R makes it very easy to do. <a href=\"http://cran.r-project.org/\">CRAN</a> is an excellent resource with libraries for pretty much any type of statistical analysis.", 
+        "category": "Powerful",
+        "comment": "R's power is that it lets you do very complex mathematical and statistical analysis. If you want to try out a new technique or algorithm, R makes it very easy to do. <a href=\"http://cran.r-project.org/\">CRAN</a> is an excellent resource with libraries for pretty much any type of statistical analysis.",
         "rating": 3
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "In my opinion, R is the best option if you want to do complex statistical analysis. <a href=\"http://ggplot2.org/\">ggplot2</a> means it is a good option for data visualisation as well.", 
+        "category": "Good for complex tasks",
+        "comment": "In my opinion, R is the best option if you want to do complex statistical analysis. <a href=\"http://ggplot2.org/\">ggplot2</a> means it is a good option for data visualisation as well.",
         "rating": 4
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "R isn't a good option for really simple tasks. You can do them in R (eventually), but you're making life difficult for yourself.", 
+        "category": "Good for easy tasks",
+        "comment": "R isn't a good option for really simple tasks. You can do them in R (eventually), but you're making life difficult for yourself.",
         "rating": -1
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "R is quite good at linking data from other programs or databases. Not quite as automatable as Python, but still very good.", 
+        "category": "Automatable",
+        "comment": "R is quite good at linking data from other programs or databases. Not quite as automatable as Python, but still very good.",
         "rating": 2
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "R lets you do very complicated things easily. For me, this is fun.", 
+        "category": "Fun",
+        "comment": "R lets you do very complicated things easily. For me, this is fun.",
         "rating": 2
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Traditionally R is quite inflexible, it sticks to pure statistical analysis and doesn't do things like manipulation of data or making attractive plots. However, there are some excellent libraries from <a href=\"http://had.co.nz/\">Hadley Wickham</a> that allow R to do some very useful things.", 
+        "category": "Flexible",
+        "comment": "Traditionally R is quite inflexible, it sticks to pure statistical analysis and doesn't do things like manipulation of data or making attractive plots. However, there are some excellent libraries from <a href=\"http://had.co.nz/\">Hadley Wickham</a> that allow R to do some very useful things.",
         "rating": 1
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "R is a programming language for statisticians. This means that it has some very odd syntax at times. It can be very difficult to learn, even if you're teaching an experienced programmer.", 
+        "category": "Training requirements",
+        "comment": "R is a programming language for statisticians. This means that it has some very odd syntax at times. It can be very difficult to learn, even if you're teaching an experienced programmer.",
         "rating": -1
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "The syntax of R is fiddly and inconsistent. This makes it more time-consuming than it should be to program R.", 
+        "category": "Good results quickly",
+        "comment": "The syntax of R is fiddly and inconsistent. This makes it more time-consuming than it should be to program R.",
         "rating": 0
       }
-    }, 
-    "Tool": "R", 
+    },
+    "Tool": "R",
     "Type": "Analysis"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "Not useful with big data - it would be very expensive and take a very long time to process a large dataset.", 
+        "category": "Good with big data",
+        "comment": "Not useful with big data - it would be very expensive and take a very long time to process a large dataset.",
         "rating": -5
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "I don't think you'll make anything impressive purely with Mechanical Turk, but I do think it can be a useful part of a data based project.", 
+        "category": "Powerful",
+        "comment": "I don't think you'll make anything impressive purely with Mechanical Turk, but I do think it can be a useful part of a data based project.",
         "rating": -1
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "Not useful for any complex stats tasks. Quite useful if you're trying to build up a training set for classification though.", 
+        "category": "Good for complex tasks",
+        "comment": "Not useful for any complex stats tasks. Quite useful if you're trying to build up a training set for classification though.",
         "rating": -2
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "Mechanical Turk works well if you ask people to do something simple.", 
+        "category": "Good for easy tasks",
+        "comment": "Mechanical Turk works well if you ask people to do something simple.",
         "rating": 2
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "You need to make the task easy for humans to do, which probably means it won't be automatable. Also, you might have to do some data cleaning.", 
+        "category": "Automatable",
+        "comment": "You need to make the task easy for humans to do, which probably means it won't be automatable. Also, you might have to do some data cleaning.",
         "rating": -2
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "You're outsourcing a task that you don't want to do, or you don't have time to do. This is fun, you don't have to do the job you don't want to!", 
+        "category": "Fun",
+        "comment": "You're outsourcing a task that you don't want to do, or you don't have time to do. This is fun, you don't have to do the job you don't want to!",
         "rating": 2
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "You can ask for people to do a wide variety of tasks. <a href=\"http://blog.echen.me/2012/04/25/making-the-most-of-mechanical-turk-tips-and-best-practices/\">This post</a> gives some interesting examples.", 
+        "category": "Flexible",
+        "comment": "You can ask for people to do a wide variety of tasks. <a href=\"http://blog.echen.me/2012/04/25/making-the-most-of-mechanical-turk-tips-and-best-practices/\">This post</a> gives some interesting examples.",
         "rating": 2
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "You need to be clear when you specify the steps to take, which takes some thought. Apart from that, Mechanical Turk is very easy to use.", 
+        "category": "Training requirements",
+        "comment": "You need to be clear when you specify the steps to take, which takes some thought. Apart from that, Mechanical Turk is very easy to use.",
         "rating": 3
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "It is as easy as writing down the steps you need to take. Really easy.", 
+        "category": "Good results quickly",
+        "comment": "It is as easy as writing down the steps you need to take. Really easy.",
         "rating": 3
       }
-    }, 
-    "Tool": "Mechanical Turk", 
+    },
+    "Tool": "Mechanical Turk",
     "Type": "Analysis"
-  }, 
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "Yes, hadoop is excellent for work with big data.", 
+        "category": "Good with big data",
+        "comment": "Yes, hadoop is excellent for work with big data.",
         "rating": 4
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "Using Hadoop means you have a gigantic dataset. A gigantic dataset can give you incredibly powerful results. <a href=\"http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/35179.pdf\">The incredible effectiveness of data</a> is a good essay on this topic.", 
+        "category": "Powerful",
+        "comment": "Using Hadoop means you have a gigantic dataset. A gigantic dataset can give you incredibly powerful results. <a href=\"http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/35179.pdf\">The incredible effectiveness of data</a> is a good essay on this topic.",
         "rating": 3
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "Hadoop and hive aren't very good at complex statistical analysis - <a href=\"http://stackoverflow.com/questions/10109514/computing-median-in-map-reduce\">even finding the median is tricky</a>. If you have a gigantic dataset, often you don't need to do anything particularly clever. The sheer volume of data means that valuable results are easy to get.", 
+        "category": "Good for complex tasks",
+        "comment": "Hadoop and hive aren't very good at complex statistical analysis - <a href=\"http://stackoverflow.com/questions/10109514/computing-median-in-map-reduce\">even finding the median is tricky</a>. If you have a gigantic dataset, often you don't need to do anything particularly clever. The sheer volume of data means that valuable results are easy to get.",
         "rating": 0
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "It would be silly to use hadoop for your easy tasks. One thing it is useful for is aggregating large volumes of data. So you could use it to aggregate your very granular information into a more useful form.", 
+        "category": "Good for easy tasks",
+        "comment": "It would be silly to use hadoop for your easy tasks. One thing it is useful for is aggregating large volumes of data. So you could use it to aggregate your very granular information into a more useful form.",
         "rating": -3
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "Easy to write out the output to files or databases.", 
+        "category": "Automatable",
+        "comment": "Easy to write out the output to files or databases.",
         "rating": 2
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "You have to think in a very different way to solve problems with Hadoop. It takes a long time to figure out how to do even simple things. Once you get the hang of it it does start to feel more natural.", 
+        "category": "Fun",
+        "comment": "You have to think in a very different way to solve problems with Hadoop. It takes a long time to figure out how to do even simple things. Once you get the hang of it it does start to feel more natural.",
         "rating": -1
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "Hadoop by itself is very inflexible. Hive the query language increases the range of tasks you can do with Hadoop somewhat, but it is still relatively inflexible.", 
+        "category": "Flexible",
+        "comment": "Hadoop by itself is very inflexible. Hive the query language increases the range of tasks you can do with Hadoop somewhat, but it is still relatively inflexible.",
         "rating": 1
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "You need to understand how map-reduce works before you can start learning hadoop. It isn't simple, so teaching people about it is tricky.", 
+        "category": "Training requirements",
+        "comment": "You need to understand how map-reduce works before you can start learning hadoop. It isn't simple, so teaching people about it is tricky.",
         "rating": -3
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "You have to take extra time to frame your problem in a way that will work with map-reduce. Solving a problem with hadoop means it takes a lot longer.", 
+        "category": "Good results quickly",
+        "comment": "You have to take extra time to frame your problem in a way that will work with map-reduce. Solving a problem with hadoop means it takes a lot longer.",
         "rating": -2
       }
-    }, 
-    "Tool": "Hadoop and hive", 
-    "Type": "Analysis"
-  }, 
+    },
+    "Tool": "Hadoop and hive",
+    "Type": "Storage"
+  },
   {
     "Ratings": {
       "Good with big data": {
-        "category": "Good with big data", 
-        "comment": "D3 performs surprisingly well with a large number of elements. You don't usually visualise big data in its raw form - you aggregate, sample and filter the data first.", 
+        "category": "Good with big data",
+        "comment": "D3 performs surprisingly well with a large number of elements. You don't usually visualise big data in its raw form - you aggregate, sample and filter the data first.",
         "rating": 1
-      }, 
+      },
       "Powerful": {
-        "category": "Powerful", 
-        "comment": "You can make spectacular end products using D3.", 
+        "category": "Powerful",
+        "comment": "You can make spectacular end products using D3.",
         "rating": 5
-      }, 
+      },
       "Good for complex tasks": {
-        "category": "Good for complex tasks", 
-        "comment": "D3 can make so many different kinds of plots. A really versatile tool that can make some very sophisticated visualisations.", 
+        "category": "Good for complex tasks",
+        "comment": "D3 can make so many different kinds of plots. A really versatile tool that can make some very sophisticated visualisations.",
         "rating": 4
-      }, 
+      },
       "Good for easy tasks": {
-        "category": "Good for easy tasks", 
-        "comment": "D3 takes time. If you just want a simple chart, I'd suggest using something else. Only use D3 if you want interactivity, animation, or a non-standard chart.", 
+        "category": "Good for easy tasks",
+        "comment": "D3 takes time. If you just want a simple chart, I'd suggest using something else. Only use D3 if you want interactivity, animation, or a non-standard chart.",
         "rating": -3
-      }, 
+      },
       "Automatable": {
-        "category": "Automatable", 
-        "comment": "D3 works well with CSV and JSON formats. If you can get your data into either of those formats, D3 will work well.", 
+        "category": "Automatable",
+        "comment": "D3 works well with CSV and JSON formats. If you can get your data into either of those formats, D3 will work well.",
         "rating": 2
-      }, 
+      },
       "Fun": {
-        "category": "Fun", 
-        "comment": "Making a plot in D3 is fun. There is something very satisfying about tweaking a plot to make it look exactly the way you want.", 
+        "category": "Fun",
+        "comment": "Making a plot in D3 is fun. There is something very satisfying about tweaking a plot to make it look exactly the way you want.",
         "rating": 4
-      }, 
+      },
       "Flexible": {
-        "category": "Flexible", 
-        "comment": "There is a huge range of things you can use D3 for. <a href=\"http://bl.ocks.org/mbostock\">This gallery</a> shows off a lot of options.", 
+        "category": "Flexible",
+        "comment": "There is a huge range of things you can use D3 for. <a href=\"http://bl.ocks.org/mbostock\">This gallery</a> shows off a lot of options.",
         "rating": 3
-      }, 
+      },
       "Training requirements": {
-        "category": "Training requirements", 
-        "comment": "You need to know javascript (or coffeescript) first. After that, there are <a href=\"https://github.com/mbostock/d3/wiki/Tutorials\">lots of tutorials</a> to follow.", 
+        "category": "Training requirements",
+        "comment": "You need to know javascript (or coffeescript) first. After that, there are <a href=\"https://github.com/mbostock/d3/wiki/Tutorials\">lots of tutorials</a> to follow.",
         "rating": -1
-      }, 
+      },
       "Good results quickly": {
-        "category": "Good results quickly", 
-        "comment": "You're programming to make a chart, so it isn't as quick as other options. There are projects to make D3 quicker; <a href=\"http://nvd3.org/\">NVD3</a> provides reusable charts, <a href=\"https://github.com/trifacta/vega\">Vega</a> is another project to simplify D3 development.", 
+        "category": "Good results quickly",
+        "comment": "You're programming to make a chart, so it isn't as quick as other options. There are projects to make D3 quicker; <a href=\"http://nvd3.org/\">NVD3</a> provides reusable charts, <a href=\"https://github.com/trifacta/vega\">Vega</a> is another project to simplify D3 development.",
         "rating": -2
       }
-    }, 
-    "Tool": "D3", 
+    },
+    "Tool": "D3",
     "Type": "Presentation"
   }
 ]

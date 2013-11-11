@@ -503,7 +503,7 @@
         hadoop. It isn't simple, so teaching people about it is tricky.
       rating: -3
   Tool: Hadoop and hive
-  Type: Analysis
+  Type: Storage
 - Ratings:
     Automatable:
       category: Automatable

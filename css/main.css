@@ -2,9 +2,32 @@ div.top_container{
 	width: 1400px;
 }
 
+span.key{
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+.key#label{
+	font-weight: normal;
+}
+
+.key#analysis{
+	color: #a9b500;
+}
+
+.key#storage{
+	color: #b91162;
+}
+
+.key#presentation{
+	color: #29A8BB;
+}
+
 div#controls{
-	width: 200px;
+	width: 199px;
 	float: left;
+	border-right: 1px solid black;
+	background-color: #eee;
 }
 
 div#taxplot{

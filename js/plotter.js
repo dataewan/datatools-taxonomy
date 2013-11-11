@@ -1,4 +1,17 @@
 
+colourscale = function(category){
+    if (category === "Presentation"){
+        return "#29A8BB";
+    }
+    if (category === "Storage"){
+        return "#b91162";
+    }
+    if (category === "Analysis"){
+        return "#a9b500";
+    }
+
+}
+
 
 d3.json("ratings.json", function(data){
 	var categories = ["Good results quickly",
@@ -75,7 +88,7 @@ d3.json("ratings.json", function(data){
 	var xscale = d3.scale.linear()
 		.domain([-5, 5])
 		.range([0, width]);
-	
+
 	// draw the xaxis
 	var xaxis = d3.svg.axis()
 		.scale(xscale)
@@ -110,8 +123,7 @@ d3.json("ratings.json", function(data){
 			.attr("cx", function(d) { return xscale(d['Ratings'][xlab]['rating'] + jitter(0.5) ); })
 			.attr("cy", function(d) { return yscale(d['Ratings'][ylab]['rating'] + jitter(0.5) ); })
 			.attr("r", 10)
-			// TODO, make the points the colour of the category they're in
-			.attr("fill", "steelblue")
+			.attr("fill", function(d) { return colourscale(d['Type']) ;} )
 			.style("opacity", 0.5)
 			.on('mouseover', function(d){
 				plot.selectAll('circle')
@@ -162,14 +174,14 @@ d3.json("ratings.json", function(data){
 			if (typeof selectedpoint === "undefined"){
 				// if the selected point is underfined, clear the info panels
 				xinfo.html("");
-				yinfo.html("");	
+				yinfo.html("");
 			} else {
 				// extract the data from the selected point to update the additional information stuff
 				xinfo.html(selectedpoint['Ratings'][xlab]['comment']);
 				yinfo.html(selectedpoint['Ratings'][ylab]['comment']);
 
 			}
-			
+
 		}
 
 	function jitter(level){
