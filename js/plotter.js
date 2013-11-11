@@ -115,6 +115,18 @@ d3.json("ratings.json", function(data){
 	var xinfo     = d3.select('#xinfo');
 	var yinfo     = d3.select('#yinfo');
 
+    // put labels on the axes
+    var xaxislabel= plot.append("text")
+                        .attr("x", width - 20)
+                        .attr("y", (height/2) - 20)
+                        .attr("text-anchor", "middle")
+                        .text(xlab);
+
+    var yaxislabel= plot.append("text")
+                        .attr("x", (width/2) + 20)
+                        .attr("y", 20)
+                        .text(ylab);
+
 	// plot the points
 	plot.selectAll('circle')
 		.data(data)
@@ -144,6 +156,8 @@ d3.json("ratings.json", function(data){
 				yinfo.html(d['Ratings'][ylab]['comment']);
                 xcategorylabel.html(xlab);
                 ycategorylabel.html(ylab);
+                xaxislabel.text(xlab);
+                yaxislabel.text(ylab);
 
 			})
 			.on('mouseout', function(d, i){
@@ -182,6 +196,8 @@ d3.json("ratings.json", function(data){
 				yinfo.html(selectedpoint['Ratings'][ylab]['comment']);
                 xcategorylabel.html(xlab);
                 ycategorylabel.html(ylab);
+                xaxislabel.text(xlab);
+                yaxislabel.text(ylab);
 
 			}
 
